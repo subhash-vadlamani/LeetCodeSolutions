@@ -11,19 +11,22 @@ class Node:
 class Solution:
     def connect(self, root: 'Optional[Node]') -> 'Optional[Node]':
         
-        if (not root) or (not root.left) :
+        if (not root) or (not root.left):
             return root
         
-        root.left.next = root.right
+        current = root
+        nxt = root.left
         
-        
-        if root.next:
-            root.right.next = root.next.left
-        self.connect(root.left)
-        self.connect(root.right)
-        
-        
-        
+        while current and nxt:
+            current.left.next = current.right
+            if current.next:
+                current.right.next = current.next.left
+            current = current.next
+            
+            if not current:
+                current = nxt
+                nxt = current.left
         return root
-        
+            
+                
         
