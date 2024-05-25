@@ -30,14 +30,19 @@ class Solution:
             for c in range(cols):
                 if board[r][c] == "O":
                     board[r][c] = "X"
-        
-
-        # Step 3: The 'T's should be converted back to 'O's
-
-        for r in range(rows):
-            for c in range(cols):
                 if board[r][c] == "T":
                     board[r][c] = "O"
+                    
+                
+                
+        
+
+#         # Step 3: The 'T's should be converted back to 'O's
+
+#         for r in range(rows):
+#             for c in range(cols):
+#                 if board[r][c] == "T":
+#                     board[r][c] = "O"
 
 
         
