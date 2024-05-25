@@ -30,7 +30,7 @@ class Solution:
             for c in range(cols):
                 if board[r][c] == "O":
                     board[r][c] = "X"
-                if board[r][c] == "T":
+                elif board[r][c] == "T":
                     board[r][c] = "O"
                     
                 
