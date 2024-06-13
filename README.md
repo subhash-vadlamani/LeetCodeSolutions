@@ -23,3 +23,11 @@ My LeetCode Solutions.
 | ------- |
 | [0207-course-schedule](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0210-course-schedule-ii) |
+# Array
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
+# Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
