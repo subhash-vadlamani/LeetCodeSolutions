@@ -13,6 +13,7 @@ My LeetCode Solutions.
 | ------- |
 | [0207-course-schedule](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0210-course-schedule-ii) |
+| [0433-minimum-genetic-mutation](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0433-minimum-genetic-mutation) |
 | [0945-snakes-and-ladders](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0945-snakes-and-ladders) |
 # Graph
 |  |
@@ -37,3 +38,11 @@ My LeetCode Solutions.
 |  |
 | ------- |
 | [0945-snakes-and-ladders](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0945-snakes-and-ladders) |
+# Hash Table
+|  |
+| ------- |
+| [0433-minimum-genetic-mutation](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0433-minimum-genetic-mutation) |
+# String
+|  |
+| ------- |
+| [0433-minimum-genetic-mutation](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0433-minimum-genetic-mutation) |
