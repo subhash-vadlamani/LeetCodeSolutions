@@ -31,6 +31,7 @@ My LeetCode Solutions.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0945-snakes-and-ladders](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0945-snakes-and-ladders) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Binary Search
 |  |
 | ------- |
@@ -49,3 +50,19 @@ My LeetCode Solutions.
 | ------- |
 | [0127-word-ladder](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0433-minimum-genetic-mutation) |
+# Bit Manipulation
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Queue
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Sliding Window
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Prefix Sum
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
