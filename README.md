@@ -8,6 +8,7 @@ My LeetCode Solutions.
 | ------- |
 | [0207-course-schedule](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0210-course-schedule-ii) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -66,3 +67,15 @@ My LeetCode Solutions.
 |  |
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Binary Search Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
