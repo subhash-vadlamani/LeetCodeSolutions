@@ -8,6 +8,7 @@ My LeetCode Solutions.
 | ------- |
 | [0207-course-schedule](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Breadth-First Search
 |  |
@@ -52,6 +53,7 @@ My LeetCode Solutions.
 | ------- |
 | [0127-word-ladder](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0433-minimum-genetic-mutation](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0433-minimum-genetic-mutation) |
 # Bit Manipulation
 |  |
@@ -85,7 +87,9 @@ My LeetCode Solutions.
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0211-design-add-and-search-words-data-structure) |
 # Trie
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0211-design-add-and-search-words-data-structure) |
