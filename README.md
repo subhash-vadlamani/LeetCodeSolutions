@@ -93,3 +93,10 @@ My LeetCode Solutions.
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0211-design-add-and-search-words-data-structure) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1293-three-consecutive-odds) |
+<!---LeetCode Topics End-->
