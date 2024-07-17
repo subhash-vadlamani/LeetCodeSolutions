@@ -105,6 +105,7 @@ My LeetCode Solutions.
 | [0088-merge-sorted-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1293-three-consecutive-odds) |
+| [3494-minimum-cost-for-cutting-cake-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -125,6 +126,7 @@ My LeetCode Solutions.
 | ------- |
 | [0088-merge-sorted-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3494-minimum-cost-for-cutting-cake-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## String
 |  |
 | ------- |
@@ -149,4 +151,9 @@ My LeetCode Solutions.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
+| [3494-minimum-cost-for-cutting-cake-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3494-minimum-cost-for-cutting-cake-i) |
+## Greedy
+|  |
+| ------- |
+| [3494-minimum-cost-for-cutting-cake-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 <!---LeetCode Topics End-->
