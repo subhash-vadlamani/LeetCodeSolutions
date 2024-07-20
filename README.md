@@ -108,6 +108,7 @@ My LeetCode Solutions.
 | [1207-delete-nodes-and-return-forest](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## Hash Table
 |  |
@@ -154,6 +155,7 @@ My LeetCode Solutions.
 | ------- |
 | [0037-sudoku-solver](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0037-sudoku-solver) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -162,6 +164,7 @@ My LeetCode Solutions.
 ## Greedy
 |  |
 | ------- |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## Divide and Conquer
 |  |
