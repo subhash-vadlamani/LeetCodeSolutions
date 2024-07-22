@@ -105,6 +105,7 @@ My LeetCode Solutions.
 | [0088-merge-sorted-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0772-construct-quad-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0772-construct-quad-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -159,6 +160,7 @@ My LeetCode Solutions.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0037-sudoku-solver) |
+| [0772-construct-quad-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0772-construct-quad-tree) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2472-build-a-matrix-with-conditions) |
@@ -177,10 +179,12 @@ My LeetCode Solutions.
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0148-sort-list) |
+| [0772-construct-quad-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0772-construct-quad-tree) |
 ## Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0772-construct-quad-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0772-construct-quad-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Binary Search Tree
