@@ -1,23 +1,30 @@
 class Solution:
-    def secondMinimum(self, n, edges, time, change):
-        D = [[] for _ in range(n + 1)]
-        D[1] = [0]
-        G, heap = defaultdict(list), [(0, 1)]
+    def secondMinimum(self, n: int, edges: List[List[int]], time: int, change: int) -> int:
+
+        adj = defaultdict(list)
+        for v1, v2 in edges:
+            adj[v1].append(v2)
+            adj[v2].append(v1)
         
-        for a, b in edges:
-            G[a] += [b]
-            G[b] += [a]
+        q = deque([1])
+        cur_time = 0
+        res = -1
+        visit_times = defaultdict(list) # node -> [visit]
+        while q:
+            for i in range(len(q)):
+                node = q.popleft()
+                if node == n:
+                    if res != -1:
+                        return cur_time
+                    res = cur_time
+                for nei in adj[node]:
+                    nei_times = visit_times[nei]
+                    if len(nei_times) == 0 or (len(nei_times) == 1 and nei_times[0] != cur_time):
+                        q.append(nei)
+                        nei_times.append(cur_time)
+                    
+            if (cur_time // change) % 2 == 1:
+                cur_time += change - (cur_time % change)
 
-        while heap:
-            min_dist, idx = heappop(heap)
-            if idx == n and len(D[n]) == 2: return max(D[n])
-
-            for neib in G[idx]:
-                if (min_dist // change) % 2 == 0:
-                    cand = min_dist + time
-                else:
-                    cand = ceil(min_dist/(2*change)) * (2*change) + time
-
-                if not D[neib] or (len(D[neib]) == 1 and D[neib] != [cand]):
-                    D[neib] += [cand]
-                    heappush(heap, (cand, neib))
+            cur_time += time
+        print(visit_times)
