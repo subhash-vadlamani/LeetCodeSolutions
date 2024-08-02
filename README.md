@@ -115,6 +115,7 @@ My LeetCode Solutions.
 | [1511-count-number-of-teams](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1511-count-number-of-teams) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2727-number-of-senior-citizens) |
@@ -270,4 +271,8 @@ My LeetCode Solutions.
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1511-count-number-of-teams) |
+## Sliding Window
+|  |
+| ------- |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 <!---LeetCode Topics End-->
