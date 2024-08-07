@@ -108,6 +108,7 @@ My LeetCode Solutions.
 | [0350-intersection-of-two-arrays-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0772-construct-quad-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0772-construct-quad-tree) |
 | [0948-sort-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0948-sort-an-array) |
+| [0954-maximum-sum-circular-subarray](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1207-delete-nodes-and-return-forest](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1333-sort-the-jumbled-numbers) |
@@ -198,6 +199,7 @@ My LeetCode Solutions.
 | ------- |
 | [0022-generate-parentheses](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0053-maximum-subarray) |
+| [0954-maximum-sum-circular-subarray](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1060-longest-repeating-substring](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1060-longest-repeating-substring) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1511-count-number-of-teams) |
@@ -216,6 +218,7 @@ My LeetCode Solutions.
 | [0148-sort-list](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0148-sort-list) |
 | [0772-construct-quad-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0772-construct-quad-tree) |
 | [0948-sort-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0948-sort-an-array) |
+| [0954-maximum-sum-circular-subarray](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Tree
 |  |
 | ------- |
@@ -306,4 +309,12 @@ My LeetCode Solutions.
 |  |
 | ------- |
 | [1060-longest-repeating-substring](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1060-longest-repeating-substring) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
