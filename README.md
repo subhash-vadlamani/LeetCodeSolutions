@@ -149,6 +149,7 @@ My LeetCode Solutions.
 | ------- |
 | [0069-sqrtx](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0069-sqrtx) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0374-guess-number-higher-or-lower) |
 | [1060-longest-repeating-substring](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1060-longest-repeating-substring) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
@@ -328,4 +329,8 @@ My LeetCode Solutions.
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0273-integer-to-english-words) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
