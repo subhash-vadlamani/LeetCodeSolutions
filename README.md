@@ -111,6 +111,7 @@ My LeetCode Solutions.
 | [0921-spiral-matrix-iii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0954-maximum-sum-circular-subarray) |
+| [0999-regions-cut-by-slashes](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0999-regions-cut-by-slashes) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1207-delete-nodes-and-return-forest](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1293-three-consecutive-odds) |
@@ -135,6 +136,7 @@ My LeetCode Solutions.
 | [0037-sudoku-solver](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0037-sudoku-solver) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0870-magic-squares-in-grid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -200,6 +202,7 @@ My LeetCode Solutions.
 | [0772-construct-quad-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0772-construct-quad-tree) |
 | [0870-magic-squares-in-grid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0999-regions-cut-by-slashes) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -249,6 +252,7 @@ My LeetCode Solutions.
 ## Depth-First Search
 |  |
 | ------- |
+| [0999-regions-cut-by-slashes](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Linked List
@@ -298,6 +302,7 @@ My LeetCode Solutions.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0999-regions-cut-by-slashes](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0999-regions-cut-by-slashes) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Binary Indexed Tree
@@ -346,4 +351,8 @@ My LeetCode Solutions.
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0921-spiral-matrix-iii) |
+## Union Find
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0999-regions-cut-by-slashes) |
 <!---LeetCode Topics End-->
