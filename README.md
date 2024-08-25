@@ -103,6 +103,7 @@ My LeetCode Solutions.
 | [0046-permutations](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -200,6 +201,7 @@ My LeetCode Solutions.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0054-spiral-matrix) |
 | [0772-construct-quad-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0772-construct-quad-tree) |
 | [0870-magic-squares-in-grid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0921-spiral-matrix-iii) |
@@ -354,6 +356,7 @@ My LeetCode Solutions.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0054-spiral-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0921-spiral-matrix-iii) |
 ## Union Find
 |  |
