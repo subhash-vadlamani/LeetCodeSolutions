@@ -1,25 +1,27 @@
 class Solution:
     def spiralMatrixIII(self, rows: int, cols: int, rStart: int, cStart: int) -> List[List[int]]:
-        seen = set()
-        ans = []
-        curr = (rStart, cStart)
-        DIRECTIONS = [(0, 1), (1, 0), (0, -1), (-1, 0)]
-        curr_dir = 0
-        jumps_needed = 1
+        directions = [[0, 1], [1, 0], [0, -1], [-1, 0]]
+
+
+        res = []
+        r, c = rStart, cStart
+        steps = 1
+        i = 0
+        while len(res) < rows * cols:
+            for _ in range(2):
+                dr, dc = directions[i]
+                for _ in range(steps):
+                    if ( 0 <= r < rows and 0 <= c < cols):
+                        res.append([r, c])
+                    r, c = r + dr, c + dc
+                
+                i = (i + 1) % 4
+            steps += 1
+        return res
+                
+
+
+
         
-        while len(seen) < rows * cols:
-            r, c = curr
-            for _ in range(jumps_needed):
-                if 0 <= r < rows and 0 <= c < cols and (r, c) not in seen:
-                    seen.add((r, c))
-                    ans.append([r, c])
-                dr, dc = DIRECTIONS[curr_dir]
-                r += dr
-                c += dc
-            curr = (r, c)
-            curr_dir = (curr_dir + 1) % 4
 
-            if curr_dir == 0 or curr_dir == 2:
-                jumps_needed += 1
-
-        return ans 
+        
