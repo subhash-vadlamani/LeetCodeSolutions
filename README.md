@@ -124,6 +124,7 @@ My LeetCode Solutions.
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2472-build-a-matrix-with-conditions) |
@@ -211,6 +212,7 @@ My LeetCode Solutions.
 | [1496-lucky-numbers-in-a-matrix](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2472-build-a-matrix-with-conditions](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2472-build-a-matrix-with-conditions) |
 ## Dynamic Programming
 |  |
@@ -359,6 +361,7 @@ My LeetCode Solutions.
 | ------- |
 | [0054-spiral-matrix](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0054-spiral-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0921-spiral-matrix-iii) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Union Find
 |  |
 | ------- |
