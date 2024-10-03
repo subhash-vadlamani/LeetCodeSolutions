@@ -124,6 +124,7 @@ My LeetCode Solutions.
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1694-make-sum-divisible-by-p](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2107-find-unique-binary-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2107-find-unique-binary-string) |
@@ -148,6 +149,7 @@ My LeetCode Solutions.
 | [1256-rank-transform-of-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2107-find-unique-binary-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -388,4 +390,8 @@ My LeetCode Solutions.
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Prefix Sum
+|  |
+| ------- |
+| [1694-make-sum-divisible-by-p](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1694-make-sum-divisible-by-p) |
 <!---LeetCode Topics End-->
