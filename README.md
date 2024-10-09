@@ -252,6 +252,7 @@ My LeetCode Solutions.
 | [0747-min-cost-climbing-stairs](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1060-longest-repeating-substring](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1060-longest-repeating-substring) |
+| [1236-n-th-tribonacci-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1236-n-th-tribonacci-number) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1511-count-number-of-teams) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3494-minimum-cost-for-cutting-cake-i) |
@@ -385,6 +386,7 @@ My LeetCode Solutions.
 | [0069-sqrtx](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0069-sqrtx) |
 | [0273-integer-to-english-words](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0870-magic-squares-in-grid) |
+| [1236-n-th-tribonacci-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -427,4 +429,8 @@ My LeetCode Solutions.
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
