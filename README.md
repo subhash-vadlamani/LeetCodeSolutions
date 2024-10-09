@@ -204,6 +204,7 @@ My LeetCode Solutions.
 | [0567-permutation-in-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
 | [0734-sentence-similarity](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0734-sentence-similarity) |
 | [0737-sentence-similarity-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0737-sentence-similarity-ii) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1060-longest-repeating-substring](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1060-longest-repeating-substring) |
 | [1923-sentence-similarity-iii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -255,6 +256,7 @@ My LeetCode Solutions.
 ## Greedy
 |  |
 | ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -420,6 +422,7 @@ My LeetCode Solutions.
 ## Stack
 |  |
 | ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
