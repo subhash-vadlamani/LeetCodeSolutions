@@ -117,6 +117,7 @@ My LeetCode Solutions.
 | [0948-sort-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0999-regions-cut-by-slashes](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0999-regions-cut-by-slashes) |
+| [1002-maximum-width-ramp](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1002-maximum-width-ramp) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1207-delete-nodes-and-return-forest](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1256-rank-transform-of-an-array) |
@@ -427,10 +428,15 @@ My LeetCode Solutions.
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1002-maximum-width-ramp) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Memoization
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1236-n-th-tribonacci-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
