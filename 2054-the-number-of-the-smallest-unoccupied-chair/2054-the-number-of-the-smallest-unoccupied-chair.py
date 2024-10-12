@@ -60,6 +60,8 @@ class Solution:
                 if earliest_arriving_friend_arriving_time == t:
                     earliest_arriving_friend_number = earliest_arriving_friend[2]
                     best_available_seat_number = occupied_chairs_list.index(0)
+                    if earliest_arriving_friend_number == targetFriend:
+                        return best_available_seat_number
                     seated_chair_list[earliest_arriving_friend_number] = best_available_seat_number
                     occupied_chairs_list[best_available_seat_number] = 1
                     i += 1
