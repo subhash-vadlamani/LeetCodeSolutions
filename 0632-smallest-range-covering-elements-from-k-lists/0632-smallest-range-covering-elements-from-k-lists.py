@@ -1,34 +1,40 @@
+import heapq 
 class Solution:
     def smallestRange(self, nums: List[List[int]]) -> List[int]:
-
-        min_heap = []
-        max_value = float('-inf')
+        pq = []
+        max_val = float('-inf')
+        range_start = 0
+        range_end = float('inf')
         
-        
+        # Initialize the heap with the first element from each list
         for i in range(len(nums)):
-            heapq.heappush(min_heap, (nums[i][0], i, 0))
-            max_value = max(max_value, nums[i][0])
-        
-        
-        min_range = float('-inf'), float('inf')
-        
-        
-        while min_heap:
-            min_value, list_idx, element_idx = heapq.heappop(min_heap)
-            
-           
-            if max_value - min_value < min_range[1] - min_range[0]:
-                min_range = (min_value, max_value)
-            
+            heapq.heappush(pq, (nums[i][0], i, 0))  # (value, list index, element index)
+            max_val = max(max_val, nums[i][0])  # Track the maximum value in the current range
 
-            if element_idx + 1 < len(nums[list_idx]):
-                next_value = nums[list_idx][element_idx + 1]
-                heapq.heappush(min_heap, (next_value, list_idx, element_idx + 1))
-                max_value = max(max_value, next_value)
+        # Process the heap
+        while len(pq) == len(nums):  # Continue while the heap contains elements from all lists
+            min_val, row, col = heapq.heappop(pq)
+            
+            # Update the range if the current range is smaller
+            if max_val - min_val < range_end - range_start:
+                range_start = min_val
+                range_end = max_val
+
+            # If there is a next element in the same list, push it to the heap
+            if col + 1 < len(nums[row]):
+                next_val = nums[row][col + 1]
+                heapq.heappush(pq, (next_val, row, col + 1))
+                max_val = max(max_val, next_val)  # Update the maximum value
             else:
+                # If any list is exhausted, stop the process
                 break
+
+        return [range_start, range_end]
+
+
+
+
         
-        return list(min_range)
         # nums_length = len(nums)
         # sorted_list_pointers = [0] * nums_length
 
