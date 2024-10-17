@@ -98,6 +98,7 @@ My LeetCode Solutions.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0046-permutations) |
@@ -173,6 +174,7 @@ My LeetCode Solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0148-sort-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -273,6 +275,7 @@ My LeetCode Solutions.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
