@@ -237,6 +237,7 @@ My LeetCode Solutions.
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1060-longest-repeating-substring](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1060-longest-repeating-substring) |
 | [1304-longest-happy-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1304-longest-happy-string) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1923-sentence-similarity-iii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2107-find-unique-binary-string) |
@@ -440,6 +441,7 @@ My LeetCode Solutions.
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0273-integer-to-english-words) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Interactive
 |  |
 | ------- |
@@ -449,6 +451,7 @@ My LeetCode Solutions.
 | ------- |
 | [0054-spiral-matrix](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0054-spiral-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0921-spiral-matrix-iii) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Union Find
