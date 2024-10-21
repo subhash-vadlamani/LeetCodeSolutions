@@ -105,6 +105,7 @@ My LeetCode Solutions.
 | [0039-combination-sum](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0054-spiral-matrix) |
@@ -159,6 +160,7 @@ My LeetCode Solutions.
 | [0013-roman-to-integer](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -207,6 +209,7 @@ My LeetCode Solutions.
 | ------- |
 | [0015-3sum](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0148-sort-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -230,6 +233,7 @@ My LeetCode Solutions.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0273-integer-to-english-words](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0273-integer-to-english-words) |
 | [0567-permutation-in-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
 | [0734-sentence-similarity](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0734-sentence-similarity) |
