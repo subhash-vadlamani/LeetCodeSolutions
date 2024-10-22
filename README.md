@@ -346,6 +346,7 @@ My LeetCode Solutions.
 |  |
 | ------- |
 | [0737-sentence-similarity-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0737-sentence-similarity-ii) |
+| [0744-network-delay-time](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0744-network-delay-time) |
 | [0999-regions-cut-by-slashes](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -362,6 +363,7 @@ My LeetCode Solutions.
 ## Graph
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0744-network-delay-time) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2472-build-a-matrix-with-conditions) |
@@ -374,6 +376,7 @@ My LeetCode Solutions.
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0744-network-delay-time](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0744-network-delay-time) |
 | [0948-sort-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0948-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -397,6 +400,7 @@ My LeetCode Solutions.
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0744-network-delay-time) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -404,6 +408,7 @@ My LeetCode Solutions.
 |  |
 | ------- |
 | [0737-sentence-similarity-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0737-sentence-similarity-ii) |
+| [0744-network-delay-time](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0744-network-delay-time) |
 | [0999-regions-cut-by-slashes](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0999-regions-cut-by-slashes) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
