@@ -169,6 +169,7 @@ My LeetCode Solutions.
 | [2727-number-of-senior-citizens](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2727-number-of-senior-citizens) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3247-number-of-same-end-substrings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3247-number-of-same-end-substrings) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## Hash Table
 |  |
@@ -199,6 +200,7 @@ My LeetCode Solutions.
 | [2163-kth-distinct-string-in-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2502-sort-the-people) |
 | [2586-longest-square-streak-in-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [3247-number-of-same-end-substrings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3247-number-of-same-end-substrings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
@@ -288,6 +290,7 @@ My LeetCode Solutions.
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3195-separate-black-and-white-balls) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3247-number-of-same-end-substrings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3247-number-of-same-end-substrings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Backtracking
 |  |
@@ -456,6 +459,7 @@ My LeetCode Solutions.
 | [0948-sort-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0948-sort-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3247-number-of-same-end-substrings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3247-number-of-same-end-substrings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Shortest Path
 |  |
@@ -560,6 +564,7 @@ My LeetCode Solutions.
 | [0253-meeting-rooms-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0253-meeting-rooms-ii) |
 | [1694-make-sum-divisible-by-p](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1694-make-sum-divisible-by-p) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3247-number-of-same-end-substrings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3247-number-of-same-end-substrings) |
 ## Stack
 |  |
 | ------- |
