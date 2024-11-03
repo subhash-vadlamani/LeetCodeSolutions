@@ -114,6 +114,7 @@ My LeetCode Solutions.
 | [0079-word-search](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0198-house-robber) |
@@ -335,6 +336,7 @@ My LeetCode Solutions.
 | [0022-generate-parentheses](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0221-maximal-square) |
