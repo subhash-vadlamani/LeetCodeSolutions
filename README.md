@@ -274,6 +274,7 @@ My LeetCode Solutions.
 | [0567-permutation-in-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
 | [0734-sentence-similarity](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0734-sentence-similarity) |
 | [0737-sentence-similarity-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0737-sentence-similarity-ii) |
+| [0812-rotate-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1060-longest-repeating-substring](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1060-longest-repeating-substring) |
 | [1197-parsing-a-boolean-expression](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1197-parsing-a-boolean-expression) |
@@ -594,6 +595,7 @@ My LeetCode Solutions.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0812-rotate-string) |
 ## Trie
 |  |
 | ------- |
