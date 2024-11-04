@@ -298,6 +298,7 @@ My LeetCode Solutions.
 | [3235-minimum-cost-to-convert-string-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3247-number-of-same-end-substrings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3247-number-of-same-end-substrings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3451-string-compression-iii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3451-string-compression-iii) |
 ## Backtracking
 |  |
 | ------- |
