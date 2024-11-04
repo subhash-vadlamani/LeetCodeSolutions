@@ -209,6 +209,7 @@ My LeetCode Solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0016-3sum-closest) |
@@ -265,6 +266,7 @@ My LeetCode Solutions.
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -338,6 +340,7 @@ My LeetCode Solutions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0063-unique-paths-ii) |
