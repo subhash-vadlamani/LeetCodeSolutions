@@ -231,6 +231,7 @@ My LeetCode Solutions.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0374-guess-number-higher-or-lower) |
@@ -553,6 +554,7 @@ My LeetCode Solutions.
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0374-guess-number-higher-or-lower) |
 ## Simulation
 |  |
