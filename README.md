@@ -118,6 +118,7 @@ My LeetCode Solutions.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0139-word-break) |
+| [0162-find-peak-element](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0221-maximal-square) |
@@ -232,6 +233,7 @@ My LeetCode Solutions.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
