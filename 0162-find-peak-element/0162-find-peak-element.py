@@ -1,31 +1,17 @@
 class Solution:
     def findPeakElement(self, nums: List[int]) -> int:
-        n = len(nums)
-        left, right = 0, n - 1
-        temp = float('-inf')
 
-        def safe_get(arr, index, default):
-            if 0 <= index < len(arr):
-                return arr[index]
-            return default
+        l, r = 0, len(nums) - 1
 
-        if n == 1:
-            return 0
+        while l <= r:
+            m = l + ((r - l) // 2)
 
-        while left <= right:
-            mid = (left + right) // 2
-
-            if mid == 0 and nums[mid] > safe_get(nums, mid+1, temp):
-                return mid
-            elif mid == n - 1 and nums[mid] > safe_get(nums, mid-1, temp):
-                return mid
-            
-            if nums[mid] > safe_get(nums, mid-1, temp) and nums[mid] > safe_get(nums, mid+1, temp):
-                return mid
-            elif nums[mid] > safe_get(nums, mid-1, temp):
-                left = mid + 1
+            # left neighbor greater
+            if m > 0 and nums[m] < nums[m - 1]:
+                r = m - 1
+            # right neighbor greater
+            elif m < len(nums) - 1 and nums[m] < nums[m + 1]:
+                l = m + 1
             else:
-                right = mid - 1
-        return mid
-                
+                return m
         
