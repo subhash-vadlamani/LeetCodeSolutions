@@ -129,6 +129,7 @@ My LeetCode Solutions.
 | [0322-coin-change](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0643-maximum-average-subarray-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0734-sentence-similarity](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0734-sentence-similarity) |
 | [0737-sentence-similarity-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0737-sentence-similarity-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0747-min-cost-climbing-stairs) |
@@ -517,6 +518,7 @@ My LeetCode Solutions.
 | ------- |
 | [0567-permutation-in-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0643-maximum-average-subarray-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Rolling Hash
