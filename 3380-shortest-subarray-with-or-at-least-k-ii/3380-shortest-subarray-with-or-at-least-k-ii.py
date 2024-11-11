@@ -1,42 +1,31 @@
 class Solution:
     def minimumSubarrayLength(self, nums: List[int], k: int) -> int:
-        min_length = float("inf")
-        window_start = window_end = 0
-        bit_counts = [0] * 32  # Tracks count of set bits at each position
 
-        # Expand window until end of array
-        while window_end < len(nums):
-            # Add current number to window
-            self._update_bit_counts(bit_counts, nums[window_end], 1)
+        res = float("inf")
+        l = 0
+        bits = [0] * 32
+        def bits_update(bits, n, diff):
+            for i in range(32):
+                if n & (1 << i):
+                    bits[i] += diff
+        
+        def bits_to_int(bits):
+            res = 0
+            for i in range(32):
+                if bits[i]:
+                    res += (1 << i)
+            return res
 
-            # Contract window while OR value is valid
-            while (
-                window_start <= window_end
-                and self._convert_bits_to_num(bit_counts) >= k
-            ):
-                # Update minimum length found so far
-                min_length = min(min_length, window_end - window_start + 1)
+        for r in range(len(nums)):
+            bits_update(bits, nums[r], 1)
+            
+            cur_or = bits_to_int(bits)
+            while l <= r and cur_or >= k:
+                res = min(res, r - l + 1)
+                bits_update(bits, nums[l], -1)
+                cur_or = bits_to_int(bits)
+                l += 1
 
-                # Remove leftmost number and shrink window
-                self._update_bit_counts(bit_counts, nums[window_start], -1)
-                window_start += 1
+        return -1 if res == float("inf") else res
 
-            window_end += 1
-
-        return -1 if min_length == float("inf") else min_length
-
-    def _update_bit_counts(
-        self, bit_counts: list, number: int, delta: int
-    ) -> None:
-        # Update counts for each set bit in the number
-        for pos in range(32):
-            if number & (1 << pos):
-                bit_counts[pos] += delta
-
-    def _convert_bits_to_num(self, bit_counts: list) -> int:
-        # Convert bit counts to number using OR operation
-        result = 0
-        for pos in range(32):
-            if bit_counts[pos]:
-                result |= 1 << pos
-        return result
+        
