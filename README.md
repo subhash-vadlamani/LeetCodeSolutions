@@ -174,6 +174,7 @@ My LeetCode Solutions.
 | [2554-minimum-total-distance-traveled](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2727-number-of-senior-citizens) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -245,6 +246,7 @@ My LeetCode Solutions.
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2716-prime-subtraction-operation) |
 ## Sorting
 |  |
 | ------- |
@@ -390,6 +392,7 @@ My LeetCode Solutions.
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3494-minimum-cost-for-cutting-cake-i) |
@@ -555,6 +558,7 @@ My LeetCode Solutions.
 | [0670-maximum-swap](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0870-magic-squares-in-grid) |
 | [1236-n-th-tribonacci-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1236-n-th-tribonacci-number) |
+| [2716-prime-subtraction-operation](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2716-prime-subtraction-operation) |
 ## Recursion
 |  |
 | ------- |
@@ -637,4 +641,8 @@ My LeetCode Solutions.
 | ------- |
 | [0139-word-break](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0139-word-break) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
