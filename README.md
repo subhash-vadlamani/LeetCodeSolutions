@@ -121,6 +121,7 @@ My LeetCode Solutions.
 | [0162-find-peak-element](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0221-maximal-square](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0228-summary-ranges) |
 | [0252-meeting-rooms](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0252-meeting-rooms) |
@@ -239,6 +240,7 @@ My LeetCode Solutions.
 | ------- |
 | [0069-sqrtx](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -524,6 +526,7 @@ My LeetCode Solutions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -607,6 +610,7 @@ My LeetCode Solutions.
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0253-meeting-rooms-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0253-meeting-rooms-ii) |
 | [1694-make-sum-divisible-by-p](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1940-maximum-xor-for-each-query) |
