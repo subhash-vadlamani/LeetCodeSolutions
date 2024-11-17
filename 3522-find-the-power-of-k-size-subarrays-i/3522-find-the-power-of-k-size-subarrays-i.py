@@ -1,32 +1,24 @@
 class Solution:
     def resultsArray(self, nums: List[int], k: int) -> List[int]:
-
-        def is_consecutively_sorted(my_list):
-            prev = my_list[0]
-
-            for i in range(1, len(my_list)):
-                curr = my_list[i]
-                if not (curr - prev == 1):
-                    return False
-                prev = curr
-            return True
-        
-        i = 0
-        j = k
-        n = len(nums)
-        ans = []
-
-        while j <= n:
-            curr_list = nums[i:j]
-            if is_consecutively_sorted(curr_list):
-                ans.append(curr_list[-1])
-            else:
-                ans.append(-1)
+        res = []
+        l = 0
+        consec_cnt = 1
+        for r in range(len(nums)):
+            if r > 0 and nums[r - 1] + 1 == nums[r]:
+                consec_cnt += 1
             
-            i += 1
-            j += 1
-        return ans
+            if r - l + 1 > k:
+                if nums[l] + 1 == nums[l + 1]:
+                    consec_cnt -= 1
+                l += 1
+            
+            if r - l + 1 == k:
+                if consec_cnt == k:
+                    res.append(nums[r])
+                else:
+                    res.append(-1)
 
 
 
+        return res
         
