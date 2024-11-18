@@ -470,6 +470,7 @@ My LeetCode Solutions.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0206-reverse-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
@@ -593,6 +594,7 @@ My LeetCode Solutions.
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0273-integer-to-english-words) |
 | [1197-parsing-a-boolean-expression](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
