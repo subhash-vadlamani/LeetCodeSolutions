@@ -178,6 +178,7 @@ My LeetCode Solutions.
 | [2502-sort-the-people](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -225,6 +226,7 @@ My LeetCode Solutions.
 | [2163-kth-distinct-string-in-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2502-sort-the-people](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2502-sort-the-people) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [3247-number-of-same-end-substrings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3247-number-of-same-end-substrings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -559,6 +561,7 @@ My LeetCode Solutions.
 | [0940-fruit-into-baskets](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0940-fruit-into-baskets) |
 | [1755-defuse-the-bomb](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1755-defuse-the-bomb) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
