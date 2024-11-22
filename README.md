@@ -145,6 +145,7 @@ My LeetCode Solutions.
 | [0999-regions-cut-by-slashes](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1002-maximum-width-ramp) |
 | [1098-largest-unique-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1098-largest-unique-number) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1207-delete-nodes-and-return-forest](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1256-rank-transform-of-an-array) |
@@ -216,6 +217,7 @@ My LeetCode Solutions.
 | [0940-fruit-into-baskets](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0940-fruit-into-baskets) |
 | [0999-regions-cut-by-slashes](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0999-regions-cut-by-slashes) |
 | [1098-largest-unique-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1098-largest-unique-number) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1207-delete-nodes-and-return-forest](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -377,6 +379,7 @@ My LeetCode Solutions.
 | [0870-magic-squares-in-grid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0999-regions-cut-by-slashes) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
