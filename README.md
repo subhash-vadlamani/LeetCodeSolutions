@@ -136,6 +136,7 @@ My LeetCode Solutions.
 | [0737-sentence-similarity-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0737-sentence-similarity-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0772-construct-quad-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0772-construct-quad-tree) |
+| [0787-sliding-puzzle](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0870-magic-squares-in-grid) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0921-spiral-matrix-iii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0921-spiral-matrix-iii) |
@@ -379,6 +380,7 @@ My LeetCode Solutions.
 | [0079-word-search](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0221-maximal-square) |
 | [0772-construct-quad-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0772-construct-quad-tree) |
+| [0787-sliding-puzzle](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0999-regions-cut-by-slashes) |
@@ -553,6 +555,7 @@ My LeetCode Solutions.
 | [0322-coin-change](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0322-coin-change) |
 | [0737-sentence-similarity-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0737-sentence-similarity-ii) |
 | [0744-network-delay-time](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0744-network-delay-time) |
+| [0787-sliding-puzzle](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0787-sliding-puzzle) |
 | [0999-regions-cut-by-slashes](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0999-regions-cut-by-slashes) |
 | [1035-cousins-in-binary-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1035-cousins-in-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1171-shortest-path-in-binary-matrix) |
