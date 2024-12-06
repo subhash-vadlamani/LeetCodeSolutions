@@ -220,6 +220,7 @@ My LeetCode Solutions.
 | [0049-group-anagrams](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -532,6 +533,7 @@ My LeetCode Solutions.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0206-reverse-linked-list) |
 ## Merge Sort
@@ -781,6 +783,7 @@ My LeetCode Solutions.
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0146-lru-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -790,4 +793,8 @@ My LeetCode Solutions.
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2201-valid-arrangement-of-pairs) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
