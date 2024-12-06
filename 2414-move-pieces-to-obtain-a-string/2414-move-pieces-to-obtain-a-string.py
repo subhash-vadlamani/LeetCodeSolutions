@@ -1,31 +1,45 @@
 class Solution:
     def canChange(self, start: str, target: str) -> bool:
-        # Queue to store characters and indices from both strings
-        start_queue = []
-        target_queue = []
-
-        # Record non-underscore characters and their indices
-        for i in range(len(start)):
-            if start[i] != "_":
-                start_queue.append((start[i], i))
-            if target[i] != "_":
-                target_queue.append((target[i], i))
-
-        # If number of pieces don't match, return false
-        if len(start_queue) != len(target_queue):
+        string_length = len(start)
+        start_order = ""
+        target_order = ""
+        start_dict = dict()
+        target_dict = dict()
+        
+        for i in range(string_length):
+            if start[i] != '_':
+                start_order += start[i]
+                if start[i] not in start_dict:
+                    start_dict[start[i]] = [i]
+                else:
+                    start_dict[start[i]].append(i)
+        
+        for i in range(string_length):
+            if target[i] != '_':
+                target_order += target[i]
+                if target[i] not in target_dict:
+                    target_dict[target[i]] = [i]
+                else:
+                    target_dict[target[i]].append(i)
+        
+        if start_order != target_order:
             return False
+        
+        for key in start_dict.keys():
+            if key == 'L':
+                start_L_indices = start_dict[key]
+                target_L_indices = target_dict[key]
 
-        # Compare each piece's type and position
-        while not len(start_queue) == 0:
-            start_char, start_index = start_queue.pop(0)
-            target_char, target_index = target_queue.pop(0)
+                for i in range(len(start_L_indices)):
+                    if start_L_indices[i] < target_L_indices[i]:
+                        return False
+            
+            else:
+                start_R_indices = start_dict[key]
+                target_R_indices = target_dict[key]
 
-            # Check character match and movement rules
-            if (
-                start_char != target_char
-                or (start_char == "L" and start_index < target_index)
-                or (start_char == "R" and start_index > target_index)
-            ):
-                return False
-
+                for i in range(len(start_R_indices)):
+                    if start_R_indices[i] > target_R_indices[i]:
+                        return False
+        
         return True
