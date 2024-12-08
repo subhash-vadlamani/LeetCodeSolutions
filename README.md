@@ -497,6 +497,7 @@ My LeetCode Solutions.
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0772-construct-quad-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0772-construct-quad-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -514,6 +515,7 @@ My LeetCode Solutions.
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0988-flip-equivalent-binary-trees) |
@@ -525,6 +527,7 @@ My LeetCode Solutions.
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0100-same-tree) |
 | [0737-sentence-similarity-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0737-sentence-similarity-ii) |
 | [0744-network-delay-time](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0744-network-delay-time) |
 | [0988-flip-equivalent-binary-trees](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0988-flip-equivalent-binary-trees) |
@@ -620,6 +623,7 @@ My LeetCode Solutions.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0100-same-tree) |
 | [0322-coin-change](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0322-coin-change) |
 | [0737-sentence-similarity-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0737-sentence-similarity-ii) |
 | [0744-network-delay-time](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0744-network-delay-time) |
