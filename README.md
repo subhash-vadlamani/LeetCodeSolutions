@@ -103,6 +103,7 @@ My LeetCode Solutions.
 | [0016-3sum-closest](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0016-3sum-closest) |
 | [0037-sudoku-solver](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0048-rotate-image) |
@@ -219,6 +220,7 @@ My LeetCode Solutions.
 | [0013-roman-to-integer](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
