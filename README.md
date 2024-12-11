@@ -352,6 +352,7 @@ My LeetCode Solutions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
