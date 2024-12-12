@@ -130,6 +130,7 @@ My LeetCode Solutions.
 | [0228-summary-ranges](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0228-summary-ranges) |
 | [0252-meeting-rooms](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0253-meeting-rooms-ii) |
+| [0268-missing-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -228,6 +229,7 @@ My LeetCode Solutions.
 | [0141-linked-list-cycle](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
@@ -296,6 +298,7 @@ My LeetCode Solutions.
 | [0162-find-peak-element](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -329,6 +332,7 @@ My LeetCode Solutions.
 | [0215-kth-largest-element-in-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0252-meeting-rooms](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0253-meeting-rooms-ii) |
+| [0268-missing-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0502-ipo](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0502-ipo) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -702,6 +706,7 @@ My LeetCode Solutions.
 | [0048-rotate-image](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0273-integer-to-english-words) |
 | [0670-maximum-swap](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0870-magic-squares-in-grid) |
@@ -742,6 +747,7 @@ My LeetCode Solutions.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
