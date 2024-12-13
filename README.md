@@ -146,6 +146,7 @@ My LeetCode Solutions.
 | [0787-sliding-puzzle](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0870-magic-squares-in-grid) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0907-koko-eating-bananas](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0921-spiral-matrix-iii) |
 | [0940-fruit-into-baskets](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0948-sort-an-array) |
@@ -306,6 +307,7 @@ My LeetCode Solutions.
 | [0350-intersection-of-two-arrays-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0907-koko-eating-bananas](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0907-koko-eating-bananas) |
 | [1060-longest-repeating-substring](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1060-longest-repeating-substring) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
