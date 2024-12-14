@@ -1,34 +1,42 @@
 class Solution:
     def maximumLength(self, s: str) -> int:
-        # Create a dictionary (equivalent of map in Python) to store the count of all substrings
-        count = {}
-        for start in range(len(s)):
-            curr_string = (
-                []
-            )  # Use a list to store the characters of the current substring
-            for end in range(start, len(s)):
-                # If the string is empty, or the current character is equal to
-                # the previously added character, then append it to the list.
-                # Otherwise, break the iteration.
-                if not curr_string or curr_string[-1] == s[end]:
-                    curr_string.append(s[end])
-                    curr_to_string = "".join(
-                        curr_string
-                    )  # Convert the list to a string
-                    if curr_to_string in count:
-                        count[curr_to_string] += 1
-                    else:
-                        count[curr_to_string] = 1
+        """
+            Approach 1(Brute Force): If the length of the string is l,
+            the maximum possible answer would be l - 2.
+
+            So, we start from l-2 and go to 1. if we find the answer, we return the 
+            answer. if not , -1
+
+        """
+        def is_same_character_string(s):
+            required_char = s[0]
+
+            for i in range(1, len(s)):
+                if s[i] != required_char:
+                    return False
+            return True
+                
+        s_len = len(s)
+        for i in range(s_len - 2, 0, -1):
+            j = 0
+            k = i
+
+            current_substring_dict_count = dict()
+            while(k <= s_len):
+                current_substring = s[j:k]
+                if not is_same_character_string(current_substring):
+                    j += 1
+                    k += 1
+                    continue
+                if current_substring not in current_substring_dict_count:
+                    current_substring_dict_count[current_substring] = 1
                 else:
-                    break
+                    current_substring_dict_count[current_substring] += 1
 
-        # Create a variable ans to store the longest length of substring with
-        # frequency at least 3.
-        ans = 0
-        for str, freq in count.items():
-            if freq >= 3 and len(str) > ans:
-                ans = len(str)
-
-        if ans == 0:
-            return -1
-        return ans
+                j += 1
+                k += 1
+            
+            if current_substring_dict_count and max(current_substring_dict_count.values()) >= 3:
+                # print(current_substring_dict_count)
+                return i
+        return -1
