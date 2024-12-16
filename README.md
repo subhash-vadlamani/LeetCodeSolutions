@@ -116,6 +116,7 @@ My LeetCode Solutions.
 | [0063-unique-paths-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0120-triangle) |
@@ -781,6 +782,7 @@ My LeetCode Solutions.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0883-car-fleet) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -799,6 +801,7 @@ My LeetCode Solutions.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0883-car-fleet) |
 | [1002-maximum-width-ramp](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1002-maximum-width-ramp) |
