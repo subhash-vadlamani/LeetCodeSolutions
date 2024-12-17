@@ -277,6 +277,7 @@ My LeetCode Solutions.
 | [0016-3sum-closest](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
+| [0086-partition-list](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0148-sort-list) |
@@ -568,6 +569,7 @@ My LeetCode Solutions.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0023-merge-k-sorted-lists) |
+| [0086-partition-list](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0148-sort-list) |
