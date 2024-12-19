@@ -246,6 +246,7 @@ My LeetCode Solutions.
 | [0268-missing-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
@@ -394,6 +395,7 @@ My LeetCode Solutions.
 | [0139-word-break](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0271-encode-and-decode-strings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0271-encode-and-decode-strings) |
 | [0273-integer-to-english-words](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0273-integer-to-english-words) |
+| [0424-longest-repeating-character-replacement](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
 | [0734-sentence-similarity](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0734-sentence-similarity) |
@@ -696,6 +698,7 @@ My LeetCode Solutions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
