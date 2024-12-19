@@ -122,6 +122,7 @@ My LeetCode Solutions.
 | [0088-merge-sorted-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -237,6 +238,7 @@ My LeetCode Solutions.
 | [0037-sudoku-solver](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0146-lru-cache) |
@@ -770,6 +772,7 @@ My LeetCode Solutions.
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0737-sentence-similarity-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0737-sentence-similarity-ii) |
 | [0999-regions-cut-by-slashes](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0999-regions-cut-by-slashes) |
 ## Strongly Connected Component
