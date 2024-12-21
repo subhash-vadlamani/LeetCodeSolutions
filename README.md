@@ -118,6 +118,7 @@ My LeetCode Solutions.
 | [0063-unique-paths-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0068-text-justification) |
+| [0074-search-a-2d-matrix](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
@@ -320,6 +321,7 @@ My LeetCode Solutions.
 | ------- |
 | [0035-search-insert-position](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -462,6 +464,7 @@ My LeetCode Solutions.
 | [0054-spiral-matrix](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0221-maximal-square) |
 | [0772-construct-quad-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0772-construct-quad-tree) |
