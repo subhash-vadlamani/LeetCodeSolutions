@@ -4,7 +4,7 @@ class Solution:
         high = len(nums) - 1
 
         while low <= high:
-            mid = (low + high) // 2
+            mid = low + ((high - low) // 2)
 
             mid_element = nums[mid]
             if mid_element == target:
