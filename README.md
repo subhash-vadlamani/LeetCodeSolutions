@@ -264,6 +264,7 @@ My LeetCode Solutions.
 | [0870-magic-squares-in-grid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0870-magic-squares-in-grid) |
 | [0940-fruit-into-baskets](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0940-fruit-into-baskets) |
 | [0999-regions-cut-by-slashes](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0999-regions-cut-by-slashes) |
+| [1023-time-based-key-value-store](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1023-time-based-key-value-store) |
 | [1098-largest-unique-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1098-largest-unique-number) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1207-delete-nodes-and-return-forest](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1207-delete-nodes-and-return-forest) |
@@ -335,6 +336,7 @@ My LeetCode Solutions.
 | [0792-binary-search](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1023-time-based-key-value-store) |
 | [1060-longest-repeating-substring](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1060-longest-repeating-substring) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -415,6 +417,7 @@ My LeetCode Solutions.
 | [0737-sentence-similarity-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0737-sentence-similarity-ii) |
 | [0812-rotate-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1023-time-based-key-value-store](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1023-time-based-key-value-store) |
 | [1060-longest-repeating-substring](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1060-longest-repeating-substring) |
 | [1197-parsing-a-boolean-expression](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -888,6 +891,7 @@ My LeetCode Solutions.
 | [0146-lru-cache](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0146-lru-cache) |
 | [0271-encode-and-decode-strings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0271-encode-and-decode-strings) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1023-time-based-key-value-store](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1023-time-based-key-value-store) |
 ## Data Stream
 |  |
 | ------- |
