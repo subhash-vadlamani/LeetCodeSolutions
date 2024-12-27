@@ -563,6 +563,7 @@ My LeetCode Solutions.
 | [0100-same-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0110-balanced-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0572-subtree-of-another-tree) |
 | [0772-construct-quad-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0772-construct-quad-tree) |
@@ -579,6 +580,7 @@ My LeetCode Solutions.
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
@@ -587,6 +589,7 @@ My LeetCode Solutions.
 | [0100-same-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0110-balanced-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -604,6 +607,7 @@ My LeetCode Solutions.
 | [0100-same-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0210-course-schedule-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0210-course-schedule-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0572-subtree-of-another-tree) |
 | [0737-sentence-similarity-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0737-sentence-similarity-ii) |
