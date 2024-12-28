@@ -169,6 +169,7 @@ My LeetCode Solutions.
 | [0954-maximum-sum-circular-subarray](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0999-regions-cut-by-slashes](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1002-maximum-width-ramp) |
+| [1014-k-closest-points-to-origin](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1098-largest-unique-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1098-largest-unique-number) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1127-last-stone-weight](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1127-last-stone-weight) |
@@ -374,6 +375,7 @@ My LeetCode Solutions.
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0883-car-fleet](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1098-largest-unique-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1098-largest-unique-number) |
 | [1256-rank-transform-of-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1333-sort-the-jumbled-numbers) |
@@ -558,6 +560,7 @@ My LeetCode Solutions.
 | [0772-construct-quad-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0772-construct-quad-tree) |
 | [0948-sort-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0954-maximum-sum-circular-subarray) |
+| [1014-k-closest-points-to-origin](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 ## Tree
 |  |
 | ------- |
@@ -680,6 +683,7 @@ My LeetCode Solutions.
 | [0789-kth-largest-element-in-a-stream](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1127-last-stone-weight](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1127-last-stone-weight) |
 | [1304-longest-happy-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1304-longest-happy-string) |
@@ -803,6 +807,7 @@ My LeetCode Solutions.
 | [0273-integer-to-english-words](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0273-integer-to-english-words) |
 | [0670-maximum-swap](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0870-magic-squares-in-grid) |
+| [1014-k-closest-points-to-origin](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1236-n-th-tribonacci-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1236-n-th-tribonacci-number) |
 | [2716-prime-subtraction-operation](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2716-prime-subtraction-operation) |
 ## Recursion
@@ -920,6 +925,7 @@ My LeetCode Solutions.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 ## Design
 |  |
 | ------- |
@@ -940,4 +946,8 @@ My LeetCode Solutions.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0146-lru-cache) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
