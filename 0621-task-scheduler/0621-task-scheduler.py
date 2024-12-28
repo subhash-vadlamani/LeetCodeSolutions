@@ -28,9 +28,11 @@ class Solution:
         minimum_cpu_intervals = 0
         i = 1
         while heap or queue:
-            if queue:
-                while queue and queue[0][1] < i:
-                    heapq.heappush(heap, queue.popleft()[0])
+            if queue and queue[0][1] < i:
+                heapq.heappush(heap, queue.popleft()[0])
+
+                # while queue and queue[0][1] < i:
+                #     heapq.heappush(heap, queue.popleft()[0])
             if heap:
                 current_element_freq = heapq.heappop(heap)
                 if current_element_freq < -1:
