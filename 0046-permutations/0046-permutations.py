@@ -1,27 +1,17 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
-        res = []
-        target_length = len(nums)
 
-        # permutation = []
-        def dfs(nums, permutation, permutation_length):
-            if permutation_length == target_length:
-                res.append(permutation.copy())
-                return
-            
-            if not nums:
-                return
-            
-            for num in nums:
-                # print(permutation)
-                permutation.append(num)
-                dfs(nums - {num}, permutation, permutation_length + 1)
-                permutation.pop()
+        if len(nums) == 0:
+            return [[]]
         
-        dfs(set(nums), [], 0)
+        perms = self.permute(nums[1:])
+        res = []
+        for p in perms:
+            for i in range(len(p) + 1):
+                p_copy = p.copy()
+                p_copy.insert(i, nums[0])
+                res.append(p_copy)
+
+
         return res
-            
-
-
-
         
