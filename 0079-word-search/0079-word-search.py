@@ -1,45 +1,32 @@
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
 
-        """
-            dfs problem
-        """
-
-        """
-            i,j: represent the indices of the current character
-            k: represents the index of the character within the word that we are searching for
-        """
         m = len(board)
         n = len(board[0])
-        def dfs(i, j, k):
-            if not ((0 <= i < m) and (0 <= j < n)):
-                return False
-            
-            board_character = board[i][j]
-            required_word_character = word[k]
+        word_length = len(word)
 
-            if board_character != required_word_character:
-                return False
-            if k == len(word) - 1:
+        def dfs(i, j, index, visited):
+            if index == word_length:
                 return True
             
-            # (i, j + 1), (i, j - 1), (i-1, j), (i+1, j)
-            temp, board[i][j] = board[i][j], '#'
+            if i < 0 or j < 0 or i >= m or j >= n or (i, j) in visited or board[i][j] != word[index]:
+                return False
+            
+            visited.add((i, j))
 
-            # dfs(i, j+1, k+1)
-            # dfs(i, j-1, k+1)
-            # dfs(i-1, j, k+1)
-            # dfs(i+1, j, k+1)
+            ans = (
+                dfs(i, j + 1, index + 1, visited) or # move right
+                dfs(i + 1, j, index + 1, visited) or # move down
+                dfs(i, j - 1, index + 1, visited) or # move left
+                dfs(i - 1, j, index + 1, visited) # move up
+            )
 
-            result = dfs(i, j+1, k+1) or dfs(i, j-1, k+1) or dfs(i-1, j, k+1) or dfs(i+1, j, k+1)
-            board[i][j] = temp
-            return result
+            visited.remove((i, j))
+            return ans
         
         for i in range(m):
             for j in range(n):
-                if dfs(i, j, 0):
+                if dfs(i, j, 0, set()):
                     return True
         return False
-            
-
         
