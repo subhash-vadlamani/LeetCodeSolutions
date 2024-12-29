@@ -420,6 +420,7 @@ My LeetCode Solutions.
 | [0068-text-justification](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0271-encode-and-decode-strings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0271-encode-and-decode-strings) |
 | [0273-integer-to-english-words](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0273-integer-to-english-words) |
@@ -474,6 +475,7 @@ My LeetCode Solutions.
 | [0078-subsets](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0131-palindrome-partitioning) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2107-find-unique-binary-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -519,6 +521,7 @@ My LeetCode Solutions.
 | [0070-climbing-stairs](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0221-maximal-square) |
