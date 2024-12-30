@@ -1,56 +1,80 @@
+class Node:
+    def __init__(self, character = '', eow = False):
+        self.character = character
+        self.eow = eow
+        self.next_character_list = []
+
 class Trie:
 
-    def __init__(self, val = None):
-        self.val = val
-        self.is_word = False
-        self.children = dict()
-        
-        
-        # The key of the above dict will be the substring and the value will be the Trie Node with that substring as the value
+    def __init__(self, character = '', eow = False):
+        self.root = Node(character, eow)
         
 
     def insert(self, word: str) -> None:
-        
-        curr = self
-        
-        for char in word:
-            if char in curr.children:
-                curr = curr.children[char]
-            else:
-                curr.children[char] = Trie(val = char)
-                curr = curr.children[char]
-        curr.is_word = True
+        temp = self.root
+
+        for i in range(0, len(word)):
+            new_node = None
+            if i == len(word) - 1:
+                for node in temp.next_character_list:
+                    if node.character == word[i]:
+                        node.eow = True
+                        new_node = node
+                        break
+                
+                if not new_node:
+                    new_node = Node(word[i], True)
+                    temp.next_character_list.append(new_node)
             
-            
-        
+            for node in temp.next_character_list:
+                if node.character == word[i]:
+                    new_node = node
+                    break
+            if not new_node:
+                new_node = Node(word[i], False)
+                temp.next_character_list.append(new_node)
+            temp = new_node
 
     def search(self, word: str) -> bool:
-        curr = self
-        
-        for char in word:
-            
-            if char not in curr.children:
+        temp = self.root
+
+        for i in range(0, len(word)):
+            new_node = None
+            if i == len(word) - 1:
+                for node in temp.next_character_list:
+                    if node.character == word[i] and node.eow == True:
+                        new_node = node
+                        break
+                if not new_node:
+                    return False
+                return True
+                
+            for node in temp.next_character_list:
+                if node.character == word[i]:
+                    new_node = node
+                    break
+            if not new_node:
                 return False
-            curr = curr.children[char]
-        
-        return curr.is_word
+            temp = new_node
+
+            
         
 
     def startsWith(self, prefix: str) -> bool:
-        curr = self
-        
-        for char in prefix:
-            
-            if char not in curr.children:
+        temp = self.root
+        for i in range(0, len(prefix)):
+            new_node = None
+            for node in temp.next_character_list:
+                if node.character == prefix[i]:
+                    new_node = node
+                    break
+            if not new_node:
                 return False
-            curr = curr.children[char]
+            temp = new_node
         
         return True
-            
-            
         
-        
-        
+
 
 # Your Trie object will be instantiated and called as such:
 # obj = Trie()
