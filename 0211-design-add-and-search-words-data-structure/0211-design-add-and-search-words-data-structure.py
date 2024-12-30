@@ -38,6 +38,8 @@ class WordDictionary:
                 ans = False
                 for c in cur.children:
                     ans = ans or _search_for_character_(cur.children[c], i+1, word)
+                    if ans:
+                        return ans
                 
                 return ans
         cur = self.root
