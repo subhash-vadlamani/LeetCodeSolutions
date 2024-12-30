@@ -1,77 +1,44 @@
-class Node:
-    def __init__(self, character = '', eow = False):
-        self.character = character
-        self.eow = eow
-        self.next_character_list = []
+class TrieNode:
+    def __init__(self):
+        self.children = {}
+        self.endOfWord = False
+
 
 class Trie:
 
-    def __init__(self, character = '', eow = False):
-        self.root = Node(character, eow)
+    def __init__(self):
+        self.root = TrieNode()
         
 
     def insert(self, word: str) -> None:
-        temp = self.root
+        cur = self.root
 
-        for i in range(0, len(word)):
-            new_node = None
-            if i == len(word) - 1:
-                for node in temp.next_character_list:
-                    if node.character == word[i]:
-                        node.eow = True
-                        new_node = node
-                        break
-                
-                if not new_node:
-                    new_node = Node(word[i], True)
-                    temp.next_character_list.append(new_node)
-            
-            for node in temp.next_character_list:
-                if node.character == word[i]:
-                    new_node = node
-                    break
-            if not new_node:
-                new_node = Node(word[i], False)
-                temp.next_character_list.append(new_node)
-            temp = new_node
+        for c in word:
+            if c not in cur.children:
+                cur.children[c] = TrieNode()
+            cur = cur.children[c]
+        
+        cur.endOfWord = True
+        
 
     def search(self, word: str) -> bool:
-        temp = self.root
+        cur = self.root
 
-        for i in range(0, len(word)):
-            new_node = None
-            if i == len(word) - 1:
-                for node in temp.next_character_list:
-                    if node.character == word[i] and node.eow == True:
-                        new_node = node
-                        break
-                if not new_node:
-                    return False
-                return True
-                
-            for node in temp.next_character_list:
-                if node.character == word[i]:
-                    new_node = node
-                    break
-            if not new_node:
+        for c in word:
+            if c not in cur.children:
                 return False
-            temp = new_node
-
-            
+            cur = cur.children[c]
+        
+        return cur.endOfWord
         
 
     def startsWith(self, prefix: str) -> bool:
-        temp = self.root
-        for i in range(0, len(prefix)):
-            new_node = None
-            for node in temp.next_character_list:
-                if node.character == prefix[i]:
-                    new_node = node
-                    break
-            if not new_node:
+        cur = self.root
+
+        for c in prefix:
+            if c not in cur.children:
                 return False
-            temp = new_node
-        
+            cur = cur.children[c]
         return True
         
 
