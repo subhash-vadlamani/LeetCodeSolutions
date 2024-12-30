@@ -424,6 +424,7 @@ My LeetCode Solutions.
 | [0131-palindrome-partitioning](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0271-encode-and-decode-strings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0271-encode-and-decode-strings) |
 | [0273-integer-to-english-words](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -635,6 +636,7 @@ My LeetCode Solutions.
 | [0110-balanced-binary-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0210-course-schedule-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
@@ -941,6 +943,7 @@ My LeetCode Solutions.
 | ------- |
 | [0139-word-break](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Number Theory
 |  |
@@ -957,6 +960,7 @@ My LeetCode Solutions.
 | ------- |
 | [0146-lru-cache](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0271-encode-and-decode-strings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0271-encode-and-decode-strings) |
 | [0295-find-median-from-data-stream](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
