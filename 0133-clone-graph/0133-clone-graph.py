@@ -9,24 +9,42 @@ class Node:
 from typing import Optional
 class Solution:
     def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:
+        """
+            store a hashmap where the key is the node value and the value is the node itself
+        """
+        root = node
+        if not root:
+            return root
+        stack = [root]
+        node_dict = {}
 
-        if not node:
-            return None
+        while stack:
+            popped_node = stack.pop()
+            if popped_node.val not in node_dict:
+                new_node = Node(val = popped_node.val)
+                node_dict[popped_node.val] = new_node
+            else:
+                new_node = node_dict[popped_node.val]
+            new_node_neighbors_list = []
+            for neigh in popped_node.neighbors:
+                if neigh.val not in node_dict:
+                    # neighbor not processed before
+                    # neighbor should be added to dict
+
+                    new_neigh_node = Node(neigh.val)
+                    stack.append(neigh)
+                    node_dict[neigh.val] = new_neigh_node
+                else:
+                    new_neigh_node = node_dict[neigh.val]
+                
+                new_node_neighbors_list.append(new_neigh_node)
+            
+            new_node.neighbors = new_node_neighbors_list
         
-        old_to_new = {}
-
-        def dfs(node):
-
-            if node in old_to_new:
-                return old_to_new[node]
+        return node_dict[node.val]
             
 
-            copy = Node(node.val)
-            old_to_new[node] = copy
 
-            for neighbor in node.neighbors:
-                copy.neighbors.append(dfs(neighbor))
-            return copy
 
-        return dfs(node)
+        
         
