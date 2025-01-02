@@ -1,28 +1,40 @@
-from collections import deque
-from typing import List
-
 class Solution:
     def wallsAndGates(self, rooms: List[List[int]]) -> None:
         """
         Do not return anything, modify rooms in-place instead.
         """
-        INF = (2 ** 31) - 1
-        m = len(rooms)
-        n = len(rooms[0])
+
         
-        # Initialize the queue with all gates
+
+        ROWS, COLS = len(rooms), len(rooms[0])
+        visit = set()
         q = deque()
-        for i in range(m):
-            for j in range(n):
-                if rooms[i][j] == 0:
-                    q.append((i, j))
+
+        def addRoom(r, c):
+            if (r < 0 or r == ROWS or c < 0 or c == COLS or 
+            (r, c) in visit or rooms[r][c] == -1):
+                return
+            
+            visit.add((r, c))
+            q.append([r, c])
+
+        for r in range(ROWS):
+            for c in range(COLS):
+                if rooms[r][c] == 0:
+                    q.append([r, c])
+                    visit.add((r, c))
         
-        # Perform BFS from all gates simultaneously
-        directions = [(1, 0), (-1, 0), (0, 1), (0, -1)]
+        dist = 0
         while q:
-            i, j = q.popleft()
-            for di, dj in directions:
-                new_i, new_j = i + di, j + dj
-                if 0 <= new_i < m and 0 <= new_j < n and rooms[new_i][new_j] == INF:
-                    rooms[new_i][new_j] = rooms[i][j] + 1
-                    q.append((new_i, new_j))
+            for i in range(len(q)):
+                r, c = q.popleft()
+
+                rooms[r][c] = dist
+
+                addRoom(r + 1, c)
+                addRoom(r - 1, c)
+                addRoom(r, c + 1)
+                addRoom(r, c - 1)
+            
+            dist += 1
+        
