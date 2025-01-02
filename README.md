@@ -658,6 +658,7 @@ My LeetCode Solutions.
 | [0130-surrounded-regions](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -698,6 +699,7 @@ My LeetCode Solutions.
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0210-course-schedule-ii) |
 | [0277-find-the-celebrity](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0277-find-the-celebrity) |
 | [0744-network-delay-time](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0744-network-delay-time) |
@@ -713,6 +715,7 @@ My LeetCode Solutions.
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0210-course-schedule-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2472-build-a-matrix-with-conditions) |
 ## Heap (Priority Queue)
@@ -781,6 +784,7 @@ My LeetCode Solutions.
 | [0130-surrounded-regions](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0210-course-schedule-ii) |
 | [0286-walls-and-gates](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0286-walls-and-gates) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
