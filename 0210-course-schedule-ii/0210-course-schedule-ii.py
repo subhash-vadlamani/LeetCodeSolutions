@@ -1,33 +1,34 @@
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
-        
-        pre_req_dict = {i:[] for i in range(numCourses)}
+        courses = prerequisites
+        g = defaultdict(list)
+        for a, b in courses:
+            g[a].append(b)
+        UNVISITED = 0
+        VISITING = 1
+        VISITED = 2
 
-        for entry in prerequisites:
-            pre_req_dict[entry[0]].append(entry[1])
-        
-        visited_node_set = set()
-        recursion_stack_set = set()
-        course_order = []
+        states = [UNVISITED] * numCourses
+        visit_stack = []
 
-        def dfs(course):
-            if course in recursion_stack_set:
-                return False
-            if course in visited_node_set:
+        def dfs(i):
+            state = states[i]
+            if state == VISITED:
                 return True
+            if state == VISITING:
+                return False
             
-            recursion_stack_set.add(course)
-
-            for pre_req in pre_req_dict[course]:
-                if not dfs(pre_req):
+            states[i] = VISITING
+            for nei in g[i]:
+                if not dfs(nei):
                     return False
-            
-            recursion_stack_set.remove(course)
-            visited_node_set.add(course)
-            course_order.append(course)
+            states[i] = VISITED
+            visit_stack.append(i)
             return True
-        
-        for course in range(numCourses):
-            if not dfs(course):
+
+
+        for i in range(numCourses):
+            if not dfs(i):
                 return []
-        return course_order
+        return visit_stack
+        
