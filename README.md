@@ -663,6 +663,7 @@ My LeetCode Solutions.
 | [0210-course-schedule-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0261-graph-valid-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0261-graph-valid-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
@@ -702,6 +703,7 @@ My LeetCode Solutions.
 | [0133-clone-graph](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0210-course-schedule-ii) |
+| [0261-graph-valid-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0261-graph-valid-tree) |
 | [0277-find-the-celebrity](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0277-find-the-celebrity) |
 | [0744-network-delay-time](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0744-network-delay-time) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -787,6 +789,7 @@ My LeetCode Solutions.
 | [0200-number-of-islands](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0210-course-schedule-ii) |
+| [0261-graph-valid-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0261-graph-valid-tree) |
 | [0286-walls-and-gates](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0286-walls-and-gates) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0322-coin-change) |
@@ -903,6 +906,7 @@ My LeetCode Solutions.
 | [0128-longest-consecutive-sequence](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0200-number-of-islands) |
+| [0261-graph-valid-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0261-graph-valid-tree) |
 | [0695-max-area-of-island](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0695-max-area-of-island) |
 | [0737-sentence-similarity-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0737-sentence-similarity-ii) |
 | [0999-regions-cut-by-slashes](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0999-regions-cut-by-slashes) |
