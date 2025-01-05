@@ -1,31 +1,45 @@
+import heapq
 class Solution:
     def networkDelayTime(self, times: List[List[int]], n: int, k: int) -> int:
-        adj = {}
-        for i in range(1, n+1):
-            adj[i] = []
-        
-        for s, d, weight in times:
-            adj[s].append([d, weight])
-        
-        shortest = {}
-        minHeap = [[0, k]]
-        while minHeap:
-            w1, n1 = heapq.heappop(minHeap)
-            if n1 in shortest:
-                continue
-            shortest[n1] = w1
 
-            for n2, w2 in adj[n1]:
-                if n2 not in shortest:
-                    heapq.heappush(minHeap, [w1 + w2, n2])
-        
-        max_time = float('-inf')
+        # Step1: Create an adj list with the given data
 
-        for i in range(1, n+1):
-            if i not in shortest:
-                return -1
-            current_time = shortest[i]
-            if current_time > max_time:
-                max_time = current_time
-        return max_time
+        g = defaultdict(dict)
+        for u, v, w in times:
+            g[u][v] = w
+        
+        INF = 10 ** 20
+        min_visit_times = [INF] * (n + 1)
+        visit_set = set()
+
+        heap = []
+        # heap will store a tuple (a, b). a -> time to reach node b
+
+        heapq.heappush(heap, (0, k))
+        while heap:
+            # break out of the look and return the value if all the nodes have been visited
+            if len(visit_set) == n:
+                return max(min_visit_times[1:])
+
+            # pop the earliest reachable node
+            current_min_time, current_min_time_node = heapq.heappop(heap)
+
+            # update the minimum reachable time for that particular node
+            min_visit_times[current_min_time_node] = min(min_visit_times[current_min_time_node], current_min_time)
+
+            
+            # explore the node if it has not been already explored
+            if current_min_time_node not in visit_set:
+                for v, w in g[current_min_time_node].items():
+                    heapq.heappush(heap, (current_min_time + w, v))
+            
+            visit_set.add(current_min_time_node)
+        
+        # Return -1 if the length of the visit_set is never equal to n
+
+        if len(visit_set) == n:
+            return max(min_visit_times[1:])
+        else:
+            return -1
+
         
