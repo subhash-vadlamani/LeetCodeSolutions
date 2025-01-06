@@ -147,6 +147,7 @@ My LeetCode Solutions.
 | [0252-meeting-rooms](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0269-alien-dictionary](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0271-encode-and-decode-strings) |
 | [0286-walls-and-gates](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0286-walls-and-gates) |
 | [0300-longest-increasing-subsequence](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0300-longest-increasing-subsequence) |
@@ -443,6 +444,7 @@ My LeetCode Solutions.
 | [0208-implement-trie-prefix-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0212-word-search-ii) |
+| [0269-alien-dictionary](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0271-encode-and-decode-strings) |
 | [0273-integer-to-english-words](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -674,6 +676,7 @@ My LeetCode Solutions.
 | [0211-design-add-and-search-words-data-structure](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0261-graph-valid-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0261-graph-valid-tree) |
+| [0269-alien-dictionary](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0269-alien-dictionary) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0332-reconstruct-itinerary](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0332-reconstruct-itinerary) |
@@ -719,6 +722,7 @@ My LeetCode Solutions.
 | [0207-course-schedule](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0261-graph-valid-tree) |
+| [0269-alien-dictionary](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0269-alien-dictionary) |
 | [0277-find-the-celebrity](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0277-find-the-celebrity) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0332-reconstruct-itinerary](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0332-reconstruct-itinerary) |
@@ -740,6 +744,7 @@ My LeetCode Solutions.
 | ------- |
 | [0207-course-schedule](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0210-course-schedule-ii) |
+| [0269-alien-dictionary](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0269-alien-dictionary) |
 | [2472-build-a-matrix-with-conditions](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2472-build-a-matrix-with-conditions) |
 ## Heap (Priority Queue)
 |  |
@@ -812,6 +817,7 @@ My LeetCode Solutions.
 | [0207-course-schedule](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0261-graph-valid-tree) |
+| [0269-alien-dictionary](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0269-alien-dictionary) |
 | [0286-walls-and-gates](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0286-walls-and-gates) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0322-coin-change) |
