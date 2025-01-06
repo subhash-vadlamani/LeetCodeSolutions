@@ -28,10 +28,10 @@ class Solution:
                 continue
             
             res += cost
+            visit.add(i)
             for neiCost, nei in adj[i]:
                 if nei not in visit:
                     heapq.heappush(minH, [neiCost, nei])
-            visit.add(i)
         return res
 
 
