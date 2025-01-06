@@ -200,6 +200,7 @@ My LeetCode Solutions.
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1694-make-sum-divisible-by-p](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1694-make-sum-divisible-by-p) |
+| [1706-min-cost-to-connect-all-points](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1755-defuse-the-bomb](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1755-defuse-the-bomb) |
@@ -721,6 +722,7 @@ My LeetCode Solutions.
 | [0684-redundant-connection](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0744-network-delay-time) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1706-min-cost-to-connect-all-points](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2201-valid-arrangement-of-pairs](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -931,6 +933,7 @@ My LeetCode Solutions.
 | [0695-max-area-of-island](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0695-max-area-of-island) |
 | [0737-sentence-similarity-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0737-sentence-similarity-ii) |
 | [0999-regions-cut-by-slashes](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0999-regions-cut-by-slashes) |
+| [1706-min-cost-to-connect-all-points](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1706-min-cost-to-connect-all-points) |
 ## Strongly Connected Component
 |  |
 | ------- |
@@ -1058,4 +1061,8 @@ My LeetCode Solutions.
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1014-k-closest-points-to-origin) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
