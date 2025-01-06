@@ -169,6 +169,7 @@ My LeetCode Solutions.
 | [0772-construct-quad-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0772-construct-quad-tree) |
 | [0787-sliding-puzzle](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0794-swim-in-rising-water) |
 | [0870-magic-squares-in-grid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0870-magic-squares-in-grid) |
 | [0883-car-fleet](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0883-car-fleet) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -359,6 +360,7 @@ My LeetCode Solutions.
 | [0350-intersection-of-two-arrays-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1023-time-based-key-value-store) |
@@ -523,6 +525,7 @@ My LeetCode Solutions.
 | [0695-max-area-of-island](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0695-max-area-of-island) |
 | [0772-construct-quad-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0772-construct-quad-tree) |
 | [0787-sliding-puzzle](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0794-swim-in-rising-water) |
 | [0870-magic-squares-in-grid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0999-regions-cut-by-slashes) |
@@ -682,6 +685,7 @@ My LeetCode Solutions.
 | [0695-max-area-of-island](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0695-max-area-of-island) |
 | [0737-sentence-similarity-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0737-sentence-similarity-ii) |
 | [0744-network-delay-time](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0794-swim-in-rising-water) |
 | [0988-flip-equivalent-binary-trees](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0999-regions-cut-by-slashes) |
 | [1035-cousins-in-binary-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1035-cousins-in-binary-tree) |
@@ -753,6 +757,7 @@ My LeetCode Solutions.
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0744-network-delay-time](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1014-k-closest-points-to-origin) |
@@ -818,6 +823,7 @@ My LeetCode Solutions.
 | [0737-sentence-similarity-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0737-sentence-similarity-ii) |
 | [0744-network-delay-time](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0744-network-delay-time) |
 | [0787-sliding-puzzle](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0794-swim-in-rising-water) |
 | [0999-regions-cut-by-slashes](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0999-regions-cut-by-slashes) |
 | [1035-cousins-in-binary-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1036-rotting-oranges) |
@@ -932,6 +938,7 @@ My LeetCode Solutions.
 | [0684-redundant-connection](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0695-max-area-of-island) |
 | [0737-sentence-similarity-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0737-sentence-similarity-ii) |
+| [0794-swim-in-rising-water](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0794-swim-in-rising-water) |
 | [0999-regions-cut-by-slashes](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0999-regions-cut-by-slashes) |
 | [1706-min-cost-to-connect-all-points](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1706-min-cost-to-connect-all-points) |
 ## Strongly Connected Component
