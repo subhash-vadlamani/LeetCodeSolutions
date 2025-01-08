@@ -1,22 +1,11 @@
 class Solution:
     def climbStairs(self, n: int) -> int:
+        one = 1
+        two = 1
 
-        if n == 1:
-            return 1
-
-        # dp = [0] * (n + 1)
-        first = 1
-        second = 1
-
-        i = 2
-        while i <= n:
-            temp = first
-            first = second
-            second = first + temp
-            i += 1
-        return second
-
-        # for i in range(2, n + 1):
-        #     dp[i] = dp[i-1] + dp[i-2]
-        # return dp[n]
+        for i in range(n - 1):
+            temp = one
+            one += two
+            two = temp
+        return one
         
