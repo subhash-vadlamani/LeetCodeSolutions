@@ -1,33 +1,28 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
-        N = len(s)
-        dp = [[0 for _ in range(N)] for _ in range(N)]
+        
+        res = ""
+        resLen = 0
 
-        def solve(dp, i, j):
+        for i in range(len(s)):
 
-            if i > j:
-                # dp[i][j] = True
-                return True
-
-            if dp[i][j] != 0:
-                return dp[i][j]
-            
-            if s[i] == s[j]:
-                if i + 1 > j  - 1 or solve(dp, i + 1, j - 1):
-                    dp[i][j] = True
-                    return True
+            # Odd length
+            l, r = i, i
+            while l >= 0 and r < len(s) and s[l] == s[r]:
+                if (r - l + 1) > resLen:
+                    res = s[l:r+1]
+                    resLen = r - l + 1
                 
-            dp[i][j] = False
-            return False
-        
-        max_len = 0
-        start_index = 0
-        for i in range(N):
-            for j in range(i + max_len, N):
-                if j - i + 1 > max_len and solve(dp, i, j):
-                    max_len = j - i + 1
-                    start_index = i
-        print(max_len)
-        return s[start_index:start_index+max_len]
-
-        
+                l -= 1
+                r += 1
+            
+            # Even Length
+            l, r = i, i + 1
+            while l >= 0 and r < len(s) and s[l] == s[r]:
+                if (r - l + 1) > resLen:
+                    res = s[l:r+1]
+                    resLen = r - l + 1
+                
+                l -= 1
+                r += 1
+        return res
