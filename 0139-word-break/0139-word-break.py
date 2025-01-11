@@ -1,31 +1,13 @@
 class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> bool:
+        dp = [False] * (len(s) + 1)
+        dp[len(s)] = True
 
-        N = len(s)
-
-        has_cache = [False] * (N + 1)
-        cache = [None] * (N + 1)
-
-        # index -> 0 to N
-        def canBreak(index):
-            if index == N:
-                return True
-            
-            if has_cache[index]:
-                return cache[index]
-            
-
-            has_cache[index] = True
-            for word in wordDict:
-                if s[index:index + len(word)].startswith(word) and canBreak(index + len(word)):
-                    cache[index] = True
-                    return True
-            cache[index] = False
-            return False
-        return canBreak(0)
-
-
-
-
-
-        
+        for i in range(len(s) - 1, -1, -1):
+            for w in wordDict:
+                if (i + len(w)) <= len(s) and s[i: i + len(w)] == w:
+                    dp[i] = dp[i + len(w)]
+                
+                if dp[i]:
+                    break
+        return dp[0]
