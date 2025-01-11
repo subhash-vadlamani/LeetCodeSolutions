@@ -12,6 +12,8 @@ class Solution:
             for t in dp:
                 nextDP.add(t + nums[i])
                 nextDP.add(t)
+                if target in nextDP:
+                    return True
             dp = nextDP
         
         if target in nextDP:
