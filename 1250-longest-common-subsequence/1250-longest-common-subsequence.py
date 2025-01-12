@@ -3,7 +3,7 @@ class Solution:
         m = len(text1)
         n = len(text2)
 
-        dp = [[0 for _ in range(n)] for _ in range(m)]
+        dp = [[0 for _ in range(n + 1)] for _ in range(m + 1)]
 
         def get_nei_max(i, j):
             # Get the maximum of the neighbour cells if they are in range, else 0
@@ -20,10 +20,7 @@ class Solution:
         for i in range(m - 1, -1, -1):
             for j in range(n - 1, -1, -1):
                 if text1[i] == text2[j]:
-                    if (i + 1) in range(m) and (j + 1) in range(n):
-                        dp[i][j] = 1 + dp[i+1][j + 1]
-                    else:
-                        dp[i][j] = 1
+                    dp[i][j] = 1 + dp[i+1][j + 1]
                 else:
                     dp[i][j] = get_nei_max(i, j)
         return dp[0][0]
