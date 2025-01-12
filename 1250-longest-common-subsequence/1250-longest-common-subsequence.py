@@ -22,7 +22,7 @@ class Solution:
                 if text1[i] == text2[j]:
                     dp[i][j] = 1 + dp[i+1][j + 1]
                 else:
-                    dp[i][j] = get_nei_max(i, j)
+                    dp[i][j] = max(dp[i][j+1], dp[i+1][j])
         return dp[0][0]
 
 
