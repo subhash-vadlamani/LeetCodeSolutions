@@ -160,6 +160,7 @@ My LeetCode Solutions.
 | [0416-partition-equal-subset-sum](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0494-target-sum](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
@@ -512,6 +513,7 @@ My LeetCode Solutions.
 | [0090-subsets-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0212-word-search-ii) |
+| [0494-target-sum](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2107-find-unique-binary-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -576,6 +578,7 @@ My LeetCode Solutions.
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0747-min-cost-climbing-stairs) |
