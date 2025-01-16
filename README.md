@@ -470,6 +470,7 @@ My LeetCode Solutions.
 | [0438-find-all-anagrams-in-a-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0734-sentence-similarity](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0734-sentence-similarity) |
 | [0737-sentence-similarity-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0737-sentence-similarity-ii) |
 | [0768-partition-labels](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0768-partition-labels) |
@@ -594,6 +595,7 @@ My LeetCode Solutions.
 | [0494-target-sum](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0954-maximum-sum-circular-subarray](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0954-maximum-sum-circular-subarray) |
@@ -619,6 +621,7 @@ My LeetCode Solutions.
 | [0621-task-scheduler](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0876-hand-of-straights) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -1037,6 +1040,7 @@ My LeetCode Solutions.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0678-valid-parenthesis-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0883-car-fleet) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
