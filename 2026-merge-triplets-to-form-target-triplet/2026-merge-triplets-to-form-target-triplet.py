@@ -1,21 +1,32 @@
 class Solution:
     def mergeTriplets(self, triplets: List[List[int]], target: List[int]) -> bool:
+
+        # Greedy
         """
-        Optimized solution to determine if the target triplet can be formed.
-        We check for each triplet if all its elements are <= corresponding target elements,
-        and if so, we use it to "cover" the target elements.
+            I am going to iterate over individual elements of the target list.
+            for that element(say 'a'), I am going to delete all the triplets
+            that have the element in that place greater than 'a'.
+
+            After doing this for all the elements in the target, if there remain any triplets,
+            I will return True. Else, False.
         """
 
-        # Initialize a result triplet to track covered elements
-        result = [0, 0, 0]
-
-        # Iterate through each triplet
-        for triplet in triplets:
-            # If the triplet exceeds the target in any dimension, skip it
-            if all(triplet[i] <= target[i] for i in range(3)):
-                # Update the result to include the current triplet
-                for i in range(3):
-                    result[i] = max(result[i], triplet[i])
-
-        # Check if the result matches the target
-        return result == target
+        for i in range(len(target)):
+            current_target_number = target[i]
+            for j in range(len(triplets) - 1, -1, -1):
+                if triplets[j][i] > current_target_number:
+                    triplets.pop(j)
+        
+        for i in range(len(target)):
+            current_target_number = target[i]
+            number_found = False
+            for j in range(len(triplets)):
+                if triplets[j][i] == current_target_number:
+                    number_found = True
+                    break
+            if not number_found:
+                return False
+        return True
+                
+        
+        
