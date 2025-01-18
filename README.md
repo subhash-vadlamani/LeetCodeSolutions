@@ -283,6 +283,7 @@ My LeetCode Solutions.
 | [0141-linked-list-cycle](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
@@ -341,6 +342,7 @@ My LeetCode Solutions.
 | [0141-linked-list-cycle](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0202-happy-number) |
 | [0253-meeting-rooms-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0253-meeting-rooms-ii) |
 | [0277-find-the-celebrity](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0277-find-the-celebrity) |
 | [0295-find-median-from-data-stream](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0295-find-median-from-data-stream) |
@@ -957,6 +959,7 @@ My LeetCode Solutions.
 | [0062-unique-paths](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0273-integer-to-english-words) |
 | [0670-maximum-swap](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0670-maximum-swap) |
