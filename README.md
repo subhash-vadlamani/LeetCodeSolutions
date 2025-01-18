@@ -228,6 +228,7 @@ My LeetCode Solutions.
 | [2089-maximum-matrix-sum](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2139-detect-squares](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2139-detect-squares) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -319,6 +320,7 @@ My LeetCode Solutions.
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2107-find-unique-binary-string) |
+| [2139-detect-squares](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2139-detect-squares) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2502-sort-the-people](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2502-sort-the-people) |
@@ -849,6 +851,7 @@ My LeetCode Solutions.
 | [0621-task-scheduler](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0621-task-scheduler) |
 | [0948-sort-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0948-sort-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [2139-detect-squares](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2139-detect-squares) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3247-number-of-same-end-substrings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3247-number-of-same-end-substrings) |
@@ -1123,6 +1126,7 @@ My LeetCode Solutions.
 | [0355-design-twitter](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1023-time-based-key-value-store) |
+| [2139-detect-squares](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2139-detect-squares) |
 ## Data Stream
 |  |
 | ------- |
