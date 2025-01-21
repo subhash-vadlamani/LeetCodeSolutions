@@ -7,6 +7,7 @@ class Solution:
                 if i != j:
                     if words[i] in words[j]:
                         answer.add(words[i])
+                        break
         return list(answer)
 
         
