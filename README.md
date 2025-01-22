@@ -674,6 +674,7 @@ My LeetCode Solutions.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
@@ -1039,6 +1040,7 @@ My LeetCode Solutions.
 | ------- |
 | [0078-subsets](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0338-counting-bits) |
