@@ -690,6 +690,7 @@ My LeetCode Solutions.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0226-invert-binary-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
@@ -718,6 +719,7 @@ My LeetCode Solutions.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0226-invert-binary-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
@@ -743,6 +745,7 @@ My LeetCode Solutions.
 | [0207-course-schedule](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0226-invert-binary-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0261-graph-valid-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0261-graph-valid-tree) |
 | [0269-alien-dictionary](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0269-alien-dictionary) |
@@ -891,6 +894,7 @@ My LeetCode Solutions.
 | [0200-number-of-islands](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0261-graph-valid-tree) |
 | [0269-alien-dictionary](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0269-alien-dictionary) |
 | [0286-walls-and-gates](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0286-walls-and-gates) |
