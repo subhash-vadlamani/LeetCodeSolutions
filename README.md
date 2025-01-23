@@ -994,6 +994,7 @@ My LeetCode Solutions.
 | [0202-happy-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0273-integer-to-english-words) |
+| [0371-sum-of-two-integers](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0371-sum-of-two-integers) |
 | [0670-maximum-swap](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0870-magic-squares-in-grid) |
 | [1014-k-closest-points-to-origin](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1014-k-closest-points-to-origin) |
@@ -1054,6 +1055,7 @@ My LeetCode Solutions.
 | [0191-number-of-1-bits](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0371-sum-of-two-integers) |
 | [1940-maximum-xor-for-each-query](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
