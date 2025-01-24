@@ -766,6 +766,7 @@ My LeetCode Solutions.
 | [0744-network-delay-time](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0820-find-eventual-safe-states](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0820-find-eventual-safe-states) |
 | [0988-flip-equivalent-binary-trees](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0999-regions-cut-by-slashes) |
 | [1035-cousins-in-binary-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1035-cousins-in-binary-tree) |
@@ -808,6 +809,7 @@ My LeetCode Solutions.
 | [0684-redundant-connection](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0820-find-eventual-safe-states](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0820-find-eventual-safe-states) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1706-min-cost-to-connect-all-points](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -824,6 +826,7 @@ My LeetCode Solutions.
 | [0207-course-schedule](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0210-course-schedule-ii) |
 | [0269-alien-dictionary](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0269-alien-dictionary) |
+| [0820-find-eventual-safe-states](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0820-find-eventual-safe-states) |
 | [2472-build-a-matrix-with-conditions](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2472-build-a-matrix-with-conditions) |
 ## Heap (Priority Queue)
 |  |
@@ -916,6 +919,7 @@ My LeetCode Solutions.
 | [0787-sliding-puzzle](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0820-find-eventual-safe-states](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0820-find-eventual-safe-states) |
 | [0999-regions-cut-by-slashes](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0999-regions-cut-by-slashes) |
 | [1035-cousins-in-binary-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1036-rotting-oranges) |
