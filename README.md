@@ -784,6 +784,7 @@ My LeetCode Solutions.
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0023-merge-k-sorted-lists) |
 | [0086-partition-list](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
@@ -1014,6 +1015,7 @@ My LeetCode Solutions.
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0273-integer-to-english-words) |
