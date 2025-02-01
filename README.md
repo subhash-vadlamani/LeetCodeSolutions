@@ -290,6 +290,7 @@ My LeetCode Solutions.
 | [0127-word-ladder](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0146-lru-cache) |
@@ -790,6 +791,7 @@ My LeetCode Solutions.
 | [0021-merge-two-sorted-lists](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0023-merge-k-sorted-lists) |
 | [0086-partition-list](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0086-partition-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0146-lru-cache) |
