@@ -26,7 +26,7 @@ class Solution:
             current_node_number += 1
         if temp_node.next:
             temp_node.next = temp_node.next.next
-        else:
-            head = None
+        # else:
+        #     head = None
         return head
         
