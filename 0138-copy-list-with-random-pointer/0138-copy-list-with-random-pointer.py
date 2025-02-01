@@ -7,51 +7,47 @@ class Node:
         self.random = random
 """
 
+from collections import defaultdict
 class Solution:
     def copyRandomList(self, head: 'Optional[Node]') -> 'Optional[Node]':
-        current_node = head
-        if not head:
-            return None
+        """
+            Use Hashmaps to store original dict
+        """
+
+        # input_dict = defaultdict(list)
+        old_to_new = dict()
+        head1 = head
+
+        temp1 = head1
+        pre_head2 = Node(-1)
+        temp2 = pre_head2
+        while temp1:
+            # input_dict[temp1].append(temp1.val)
+            # input_dict[temp1].append(temp1.random)
+
+            new_node = Node(temp1.val)
+            old_to_new[temp1] = new_node
+            temp2.next = new_node
+
+            temp1 = temp1.next
+            temp2 = temp2.next
         
-        node_keys = []
-        
-        while(current_node):
-            node_keys.append(current_node)
-            current_node = current_node.next
-        
-        node_dict = {}
-        
-        for key in node_keys:
-            node_dict[key] = {}
-            node_dict[key]["val"] = key.val
-            node_dict[key]["next"] = key.next
-            node_dict[key]["random"] = key.random
-        
-         
-        current_node = head
-        
-        node_mapping = {}
-        
-        while(current_node):
-            new_node = Node(0)
-            node_mapping[current_node] = new_node
-            current_node = current_node.next
-        
-        
-        for key in node_keys:
-            new_list_node = node_mapping[key]
-            new_list_node.val = node_dict[key]["val"]
-            if node_dict[key]["next"]:
-                new_list_node.next = node_mapping[node_dict[key]["next"]]
-            else:
-                new_list_node.next = None
-            if node_dict[key]["random"]:
-                new_list_node.random = node_mapping[node_dict[key]["random"]]
-            else:
-                new_list_node.random = None
-        
-        
-        new_list_head = node_mapping[head]
-        return new_list_head
+        head2 = pre_head2.next
+
+        temp1 = head1
+        temp2 = head2
+
+        while temp1:
+            temp1_random = temp1.random
+            if temp1_random:
+                temp2.random = old_to_new[temp1_random]
             
+            temp1 = temp1.next
+            temp2 = temp2.next
+        
+        return head2
+
+        # hashmap to store the mapping of old to new dict
+        # temp = head
+        # while temp:
         
