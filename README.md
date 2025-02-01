@@ -348,6 +348,7 @@ My LeetCode Solutions.
 | [0011-container-with-most-water](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0086-partition-list) |
@@ -785,6 +786,7 @@ My LeetCode Solutions.
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0023-merge-k-sorted-lists) |
 | [0086-partition-list](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0086-partition-list) |
