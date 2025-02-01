@@ -11,13 +11,13 @@ class Solution:
         while temp_node:
             linked_list_length += 1
             temp_node = temp_node.next
-        front_node_number = linked_list_length - n
+        front_node_number = (linked_list_length + 1) - n
         
-        if front_node_number == 0:
+        if front_node_number == 1:
             head = head.next
             return head
         
-        current_node_number = 1
+        current_node_number = 2
         
         temp_node = head
         
