@@ -24,8 +24,8 @@ class Solution:
         while current_node_number < front_node_number:
             temp_node = temp_node.next
             current_node_number += 1
-        if temp_node.next:
-            temp_node.next = temp_node.next.next
+        # if temp_node.next:
+        temp_node.next = temp_node.next.next
         # else:
         #     head = None
         return head
