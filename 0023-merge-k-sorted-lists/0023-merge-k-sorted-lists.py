@@ -1,4 +1,3 @@
-import copy
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
@@ -6,37 +5,41 @@ import copy
 #         self.next = next
 class Solution:
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
-        head = None
-        temp = head
-
-        while True:
-            """
-                We maintain a list of that contains 2 elements
-                1. The minimum element encountered so far
-                2. Index of the list of linkedlist where the minimum element was found
-            """
-            min_element_list = [float('inf'), None]
-            for i in range(len(lists)):
-                lst = lists[i]
-                if lst and lst.val < min_element_list[0]:
-                    min_element_list = [lst.val, i]
-            if min_element_list[0] != float('inf'):
-                if not head:
-                    head = ListNode()
-                    temp = head
-                    temp.val = min_element_list[0]
-                else:
-                    temp.next = ListNode()
-                    temp = temp.next
-                    temp.val = min_element_list[0]
-
-                lists[min_element_list[1]] = lists[min_element_list[1]].next
-            else:
-                break
+        if not lists or len(lists) == 0:
+            return None
         
-        return head
+        while len(lists) > 1:
+            mergedLists = []
+
+            for i in range(0, len(lists), 2):
+                l1 = lists[i]
+                l2 = lists[i + 1] if (i + 1) < len(lists) else None
+                mergedLists.append(self.mergeList(l1, l2))
+            lists = mergedLists
+        return lists[0]
+        
 
 
+    
+    def mergeList(self, l1, l2):
+        #todo
+
+        dummy = ListNode()
+        tail = dummy
 
 
+        while l1 and l2:
+            if l1.val < l2.val:
+                tail.next = l1
+                l1 = l1.next
+            else:
+                tail.next = l2
+                l2 = l2.next
+            tail = tail.next
+        
+        if l1:
+            tail.next = l1
+        if l2:
+            tail.next = l2
+        return dummy.next
         
