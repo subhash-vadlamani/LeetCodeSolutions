@@ -161,6 +161,7 @@ My LeetCode Solutions.
 | [0322-coin-change](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0362-design-hit-counter](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0362-design-hit-counter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0416-partition-equal-subset-sum](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -397,6 +398,7 @@ My LeetCode Solutions.
 | [0287-find-the-duplicate-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0362-design-hit-counter](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0362-design-hit-counter) |
 | [0374-guess-number-higher-or-lower](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0794-swim-in-rising-water) |
@@ -1001,6 +1003,7 @@ My LeetCode Solutions.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0239-sliding-window-maximum) |
+| [0362-design-hit-counter](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0362-design-hit-counter) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0954-maximum-sum-circular-subarray](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Queue
@@ -1193,6 +1196,7 @@ My LeetCode Solutions.
 | [0295-find-median-from-data-stream](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0355-design-twitter) |
+| [0362-design-hit-counter](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0362-design-hit-counter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1023-time-based-key-value-store) |
 | [2139-detect-squares](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2139-detect-squares) |
@@ -1200,6 +1204,7 @@ My LeetCode Solutions.
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0295-find-median-from-data-stream) |
+| [0362-design-hit-counter](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0362-design-hit-counter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Eulerian Circuit
 |  |
