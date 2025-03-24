@@ -272,6 +272,7 @@ My LeetCode Solutions.
 | [3291-find-if-array-can-be-sorted](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3427-special-array-ii) |
+| [3430-count-days-without-meetings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3430-count-days-without-meetings) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -467,6 +468,7 @@ My LeetCode Solutions.
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3430-count-days-without-meetings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3430-count-days-without-meetings) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## String
 |  |
