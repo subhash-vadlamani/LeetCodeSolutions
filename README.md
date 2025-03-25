@@ -277,6 +277,7 @@ My LeetCode Solutions.
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
 | ------- |
@@ -470,6 +471,7 @@ My LeetCode Solutions.
 | [3291-find-if-array-can-be-sorted](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3430-count-days-without-meetings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3430-count-days-without-meetings) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3494-minimum-cost-for-cutting-cake-i) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## String
 |  |
 | ------- |
