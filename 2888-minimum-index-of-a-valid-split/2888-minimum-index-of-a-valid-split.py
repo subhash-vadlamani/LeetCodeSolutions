@@ -2,23 +2,40 @@ from collections import defaultdict
 import math
 class Solution:
     def minimumIndex(self, nums: List[int]) -> int:
-        element_frequency_dict = defaultdict(int)
+        # element_frequency_dict = defaultdict(int)
+
+        # for num in nums:
+        #     element_frequency_dict[num] += 1
+        
+        # # print(element_frequency_dict)
+        # # find the dominent element
+        # dom_element_value = 0
+        # dom_element_freq = float('-inf')
+
+        # for element, element_freq in element_frequency_dict.items():
+        #     if element_freq > dom_element_freq:
+        #         dom_element_value = element
+        #         dom_element_freq = element_freq
+        
+        # # print(f'the dom element is {dom_element_value} and its frequency is {dom_element_freq}')
+        
+        
+
+        dom_element_value = dom_element_freq = count = 0
 
         for num in nums:
-            element_frequency_dict[num] += 1
+            if count == 0:
+                dom_element_value = num
+            
+            count += (1 if num == dom_element_value else -1)
         
-        # print(element_frequency_dict)
-        # find the dominent element
-        dom_element_value = 0
-        dom_element_freq = float('-inf')
+        for num in nums:
+            if num == dom_element_value:
+                dom_element_freq += 1
 
-        for element, element_freq in element_frequency_dict.items():
-            if element_freq > dom_element_freq:
-                dom_element_value = element
-                dom_element_freq = element_freq
         
-        # print(f'the dom element is {dom_element_value} and its frequency is {dom_element_freq}')
-        
+        # print(f"dom element value is : {dom_element_value}")
+
         # we found the dom element and it's frequency
         n = len(nums)
         left_subarray_dom_element_freq = 0
