@@ -267,6 +267,7 @@ My LeetCode Solutions.
 | [2716-prime-subtraction-operation](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2727-number-of-senior-citizens) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3247-number-of-same-end-substrings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3247-number-of-same-end-substrings) |
@@ -344,6 +345,7 @@ My LeetCode Solutions.
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2685-first-completely-painted-row-or-column) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3247-number-of-same-end-substrings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3247-number-of-same-end-substrings) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -468,6 +470,7 @@ My LeetCode Solutions.
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3291-find-if-array-can-be-sorted) |
