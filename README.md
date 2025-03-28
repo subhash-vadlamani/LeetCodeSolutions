@@ -258,6 +258,7 @@ My LeetCode Solutions.
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2685-first-completely-painted-row-or-column) |
@@ -384,6 +385,7 @@ My LeetCode Solutions.
 | [2232-adding-spaces-to-a-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3195-separate-black-and-white-balls) |
@@ -467,6 +469,7 @@ My LeetCode Solutions.
 | [2502-sort-the-people](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2502-sort-the-people) |
 | [2554-minimum-total-distance-traveled](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -612,6 +615,7 @@ My LeetCode Solutions.
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2472-build-a-matrix-with-conditions](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2472-build-a-matrix-with-conditions) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -893,6 +897,7 @@ My LeetCode Solutions.
 | [2164-two-best-non-overlapping-events](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Bucket Sort
@@ -970,6 +975,7 @@ My LeetCode Solutions.
 | [2171-second-minimum-time-to-reach-destination](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -1092,6 +1098,7 @@ My LeetCode Solutions.
 | [0999-regions-cut-by-slashes](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0999-regions-cut-by-slashes) |
 | [1396-count-servers-that-communicate](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [1706-min-cost-to-connect-all-points](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1706-min-cost-to-connect-all-points) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Strongly Connected Component
 |  |
