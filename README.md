@@ -245,6 +245,7 @@ My LeetCode Solutions.
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2262-solving-questions-with-brainpower](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2358-number-of-ways-to-split-array) |
@@ -664,6 +665,7 @@ My LeetCode Solutions.
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2164-two-best-non-overlapping-events) |
+| [2262-solving-questions-with-brainpower](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2554-minimum-total-distance-traveled](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
