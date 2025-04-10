@@ -1,34 +1,73 @@
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
-        
-        if t == "": return ""
 
-        countT, window = {}, {}
+        m = len(s)
+        n = len(t)
 
-        for c in t:
-            countT[c] = 1 + countT.get(c, 0)
+        """
+            we need to find the minimum substring of s such that every character in t
+            is included in the window.
+
+            For this to be possible, m >=n is required.
+
+            variable size sliding window.
+
+            What is the best way to check if the freq dict of a substring
+            contains all the elements that are present in the second string?
+        """
+
+        if m < n:
+            return ""
         
-        have, need = 0, len(countT)
-        res, resLen = [-1, -1], float('inf')
+        substring_dict = {}
+        t_string_dict = {}
+
+        # Populate the t_string_dict
+
+        for i in range(n):
+            if t[i] not in t_string_dict:
+                t_string_dict[t[i]] = 1
+            else:
+                t_string_dict[t[i]] += 1
+        
+        def substring_contains_all_chars():
+
+            """
+                Time complexity is O(1) because the string
+                contains only uppercase and lowercase english letters
+            """
+
+            for key in t_string_dict.keys():
+                if key not in substring_dict or substring_dict[key] < t_string_dict[key]:
+                    return False
+            return True
+        
         l = 0
-        for r in range(len(s)):
-            c = s[r]
-            window[c] = 1 + window.get(c, 0)
+        r = 0
+        minimum_window_substring = ""
+        minimum_window_size = float('inf')
 
-            if c in countT and window[c] == countT[c]:
-                have += 1
-            
-            while have == need:
-                # update our result
-                if (r - l + 1) < resLen:
-                    resLen = r - l + 1
-                    res = [l, r]
-                # pop from the left of our window
-                window[s[l]] -= 1
-                if s[l] in countT and window[s[l]] < countT[s[l]]:
-                    have -= 1
-                l += 1
-        
-        l, r = res
-        return s[l:r+1] if resLen != float('inf') else ""
+        while r < m:
+            substring_dict[s[r]] = 1 + substring_dict.get(s[r], 0)
+
+            while substring_contains_all_chars():
+                if r - l + 1 < minimum_window_size:
+                    minimum_window_substring = s[l:r+1]
+                    minimum_window_size = r - l + 1
                 
+                substring_dict[s[l]] -= 1
+                if substring_dict[s[l]] == 0:
+                    del substring_dict[s[l]]
+                l += 1
+            
+            r += 1
+            
+        return minimum_window_substring
+
+
+        
+        
+
+
+
+        
