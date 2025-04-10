@@ -45,7 +45,7 @@ class Solution:
 
         for letter in string.ascii_lowercase:
             s2_substring_char_freq_dict[letter] = 0
-            
+
         for i in range(0, s1_len):
             s2_substring_char_freq_dict[s2[i]] += 1
         
@@ -56,13 +56,13 @@ class Solution:
             if s1_char_freq_dict == s2_substring_char_freq_dict:
                 return True
             
-            print(s2_substring_char_freq_dict)
+            # print(s2_substring_char_freq_dict)
             s2_substring_char_freq_dict[s2[l]] -= 1
             l += 1
             r += 1
             s2_substring_char_freq_dict[s2[r]] += 1
         
-        print(s2_substring_char_freq_dict)
+        # print(s2_substring_char_freq_dict)
         return s1_char_freq_dict == s2_substring_char_freq_dict
 
         
