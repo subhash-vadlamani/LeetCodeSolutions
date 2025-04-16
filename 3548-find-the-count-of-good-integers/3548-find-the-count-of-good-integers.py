@@ -49,10 +49,10 @@ class Solution:
             number[pos] = chr(c)
             number[n - pos - 1] = chr(c)
             self.generate_palindromes(pos + 1, n, number, k)
-        number[pos] = ' '
+        number[pos] = ' ' 
 
     def countGoodIntegers(self, n: int, k: int) -> int:
         self.precompute_factorial(n)
         number = [' '] * n
         self.generate_palindromes(0, n, number, k)
-        return self.k_palindromes
+        return self.k_palindromes 
