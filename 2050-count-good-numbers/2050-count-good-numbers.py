@@ -1,37 +1,24 @@
 class Solution:
     def countGoodNumbers(self, n: int) -> int:
-        prime_digit_set = {2, 3, 5, 7}
+
         MOD = 10 ** 9 + 7
 
-        """
-            complement counting method?
-            a digit string is good  if digits
-
-            eg1:
-            n = 1, ans = 5
-
-            n = 4, ans = 5 * 4 * 5 * 4
-        """
-
-        if n == 1:
-            return 5
-        
-        if n % 2 == 0:
-            result_1 = pow(4, n//2, MOD)
-            result_2 = pow(5, n//2, MOD)
-
-            answer = (result_1 * result_2) % MOD
-        else:
-            result_1 = pow(4, (n - 1) // 2, MOD)
-            result_2 = pow(5, (n - 1) // 2, MOD)
+        def pow(x, n):
             
-            answer = (result_1 * result_2 * 5) % MOD
-        
-        return answer
-
+            if n == 0:
+                return 1
             
+            res = 1
+            while n > 1:
+                if n % 2:
+                    res = (res * x) % MOD
+                n = n // 2
+                x = (x * x) % MOD
+            
+            return (res * x) % MOD
+        
+        even = ceil(n / 2)
+        odd = n // 2
 
-
-
-
+        return (pow(5, even) * pow(4, odd)) % MOD
         
