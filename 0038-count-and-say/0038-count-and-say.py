@@ -23,14 +23,12 @@ class Solution:
             return rle_string
 
         
-        def dfs(i):
-            if i == "1":
-                return "1"
-            
-            return rle(dfs(str(int(i) - 1)))
+        ans_list = ["1"]
+
+        for i in range(n-1):
+            ans_list.append(rle(ans_list[-1]))
         
-        answer = dfs(str(n))
-        return answer
+        return ans_list[-1]
             
 
 
