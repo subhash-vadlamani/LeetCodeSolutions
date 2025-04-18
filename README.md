@@ -513,6 +513,7 @@ My LeetCode Solutions.
 | [0022-generate-parentheses](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0038-count-and-say](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0068-text-justification) |
