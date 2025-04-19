@@ -1,29 +1,37 @@
+import bisect
 class Solution:
-    def lower_bound(self, nums, low, high, element):
-        while low <= high:
-            mid = low + ((high - low) // 2)
-            if nums[mid] >= element:
-                high = mid - 1
-            else:
-                low = mid + 1
-        return low
+    def countFairPairs(self, nums: List[int], lower: int, upper: int) -> int:
 
-    def countFairPairs(self, nums, lower, upper):
-        nums.sort()
-        ans = 0
-        for i in range(len(nums)):
-            # Assume we have picked nums[i] as the first pair element.
+        """
+            return the number of fair pairs
+        """
 
-            # `low` indicates the number of possible pairs with sum < lower.
-            low = self.lower_bound(nums, i + 1, len(nums) - 1, lower - nums[i])
+        """
+            step1: sort the numbers
+        """
 
-            # `high` indicates the number of possible pairs with sum <= upper.
-            high = self.lower_bound(
-                nums, i + 1, len(nums) - 1, upper - nums[i] + 1
-            )
+        nums_sorted = sorted(nums)
 
-            # Their difference gives the number of elements with sum in the
-            # given range.
-            ans += high - low
+        """
+            for every number in the nums, find the smallest and largest number that can be used
+            to form a fair pair
+        """
 
-        return ans
+        answer = 0
+        n = len(nums_sorted)
+        for i in range(n):
+            current_num = nums_sorted[i]
+
+            current_lower = lower - current_num
+            current_upper = upper - current_num
+
+            left = bisect.bisect_left(nums_sorted, current_lower, i + 1, n)
+            right = bisect.bisect_right(nums_sorted, current_upper, i + 1, n)
+            
+            answer += (right - left)
+        return answer
+
+
+
+
+        
