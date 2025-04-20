@@ -184,6 +184,7 @@ My LeetCode Solutions.
 | [0787-sliding-puzzle](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0794-swim-in-rising-water) |
+| [0797-rabbits-in-forest](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0883-car-fleet) |
@@ -329,6 +330,7 @@ My LeetCode Solutions.
 | [0734-sentence-similarity](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0734-sentence-similarity) |
 | [0737-sentence-similarity-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0737-sentence-similarity-ii) |
 | [0768-partition-labels](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0940-fruit-into-baskets) |
@@ -708,6 +710,7 @@ My LeetCode Solutions.
 | [0670-maximum-swap](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0876-hand-of-straights) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1126-minimum-cost-to-connect-sticks) |
@@ -1090,6 +1093,7 @@ My LeetCode Solutions.
 | [0368-largest-divisible-subset](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0371-sum-of-two-integers) |
 | [0670-maximum-swap](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0670-maximum-swap) |
+| [0797-rabbits-in-forest](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0870-magic-squares-in-grid) |
 | [1014-k-closest-points-to-origin](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1236-n-th-tribonacci-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1236-n-th-tribonacci-number) |
