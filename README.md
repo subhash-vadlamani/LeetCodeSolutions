@@ -199,6 +199,7 @@ My LeetCode Solutions.
 | [1002-maximum-width-ramp](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1036-rotting-oranges) |
+| [1074-high-five](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1074-high-five) |
 | [1098-largest-unique-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1098-largest-unique-number) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1127-last-stone-weight](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1127-last-stone-weight) |
@@ -339,6 +340,7 @@ My LeetCode Solutions.
 | [0940-fruit-into-baskets](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0940-fruit-into-baskets) |
 | [0999-regions-cut-by-slashes](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0999-regions-cut-by-slashes) |
 | [1023-time-based-key-value-store](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1023-time-based-key-value-store) |
+| [1074-high-five](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1074-high-five) |
 | [1098-largest-unique-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1098-largest-unique-number) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1207-delete-nodes-and-return-forest](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1207-delete-nodes-and-return-forest) |
@@ -479,6 +481,7 @@ My LeetCode Solutions.
 | [0883-car-fleet](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1014-k-closest-points-to-origin) |
+| [1074-high-five](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1074-high-five) |
 | [1098-largest-unique-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1098-largest-unique-number) |
 | [1256-rank-transform-of-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1333-sort-the-jumbled-numbers) |
@@ -935,6 +938,7 @@ My LeetCode Solutions.
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1014-k-closest-points-to-origin) |
+| [1074-high-five](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1074-high-five) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1127-last-stone-weight](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1127-last-stone-weight) |
 | [1304-longest-happy-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1304-longest-happy-string) |
