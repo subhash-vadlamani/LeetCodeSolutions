@@ -1,22 +1,20 @@
 class Solution:
     def countCompleteSubarrays(self, nums: List[int]) -> int:
-
-        array_set = set(nums)
-        # print(array_set)
-        answer = 0
-        nums_len = len(nums)
-
-        for i in range(nums_len):
-
-            current_set = set()
-
-            for j in range(i, nums_len):
-                current_set.add(nums[j])
-                # print(current_set)
-
-                if current_set == array_set:
-                    answer += 1
-        
-        return answer
-
-        
+        res = 0
+        cnt = {}
+        n = len(nums)
+        right = 0
+        distinct = len(set(nums))
+        for left in range(n):
+            if left > 0:
+                remove = nums[left - 1]
+                cnt[remove] -= 1
+                if cnt[remove] == 0:
+                    cnt.pop(remove)
+            while right < n and len(cnt) < distinct:
+                add = nums[right]
+                cnt[add] = cnt.get(add, 0) + 1
+                right += 1
+            if len(cnt) == distinct:
+                res += n - right + 1
+        return res
