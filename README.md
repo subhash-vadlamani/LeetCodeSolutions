@@ -262,6 +262,7 @@ My LeetCode Solutions.
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2554-minimum-total-distance-traveled) |
@@ -1055,6 +1056,7 @@ My LeetCode Solutions.
 | [0940-fruit-into-baskets](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0940-fruit-into-baskets) |
 | [1755-defuse-the-bomb](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1755-defuse-the-bomb) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -1082,12 +1084,14 @@ My LeetCode Solutions.
 | [0362-design-hit-counter](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0362-design-hit-counter) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0954-maximum-sum-circular-subarray](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0954-maximum-sum-circular-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0954-maximum-sum-circular-subarray](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0954-maximum-sum-circular-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Math
 |  |
 | ------- |
