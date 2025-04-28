@@ -257,6 +257,7 @@ My LeetCode Solutions.
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2465-shifting-letters-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -452,6 +453,7 @@ My LeetCode Solutions.
 | [2164-two-best-non-overlapping-events](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -1057,6 +1059,7 @@ My LeetCode Solutions.
 | [0940-fruit-into-baskets](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0940-fruit-into-baskets) |
 | [1755-defuse-the-bomb](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1755-defuse-the-bomb) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -1216,6 +1219,7 @@ My LeetCode Solutions.
 | [2145-grid-game](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2145-grid-game) |
 | [2249-count-the-hidden-sequences](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2249-count-the-hidden-sequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2358-number-of-ways-to-split-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2691-count-vowel-strings-in-ranges) |
