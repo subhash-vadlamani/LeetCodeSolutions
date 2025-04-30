@@ -211,6 +211,7 @@ My LeetCode Solutions.
 | [1333-sort-the-jumbled-numbers](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1396-count-servers-that-communicate) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -1124,6 +1125,7 @@ My LeetCode Solutions.
 | [0870-magic-squares-in-grid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0870-magic-squares-in-grid) |
 | [1014-k-closest-points-to-origin](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1236-n-th-tribonacci-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1236-n-th-tribonacci-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2050-count-good-numbers) |
