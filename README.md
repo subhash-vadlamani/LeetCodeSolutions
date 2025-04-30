@@ -234,6 +234,7 @@ My LeetCode Solutions.
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1940-maximum-xor-for-each-query) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1972-rotating-the-box](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1972-rotating-the-box) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1977-minimum-interval-to-include-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1094,6 +1095,7 @@ My LeetCode Solutions.
 | [0362-design-hit-counter](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0362-design-hit-counter) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0954-maximum-sum-circular-subarray](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0954-maximum-sum-circular-subarray) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
@@ -1127,6 +1129,7 @@ My LeetCode Solutions.
 | [1236-n-th-tribonacci-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1236-n-th-tribonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1500-count-largest-group) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -1145,6 +1148,7 @@ My LeetCode Solutions.
 | [0273-integer-to-english-words](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0273-integer-to-english-words) |
 | [1197-parsing-a-boolean-expression](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2050-count-good-numbers) |
 ## Interactive
 |  |
@@ -1160,6 +1164,7 @@ My LeetCode Solutions.
 | [0068-text-justification](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0068-text-justification) |
 | [0921-spiral-matrix-iii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0921-spiral-matrix-iii) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2232-adding-spaces-to-a-string) |
