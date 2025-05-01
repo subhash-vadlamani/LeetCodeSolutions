@@ -169,6 +169,7 @@ My LeetCode Solutions.
 | [0417-pacific-atlantic-water-flow](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0465-optimal-account-balancing](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0465-optimal-account-balancing) |
 | [0494-target-sum](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0518-coin-change-ii) |
@@ -619,6 +620,7 @@ My LeetCode Solutions.
 | [0090-subsets-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0212-word-search-ii) |
+| [0465-optimal-account-balancing](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0465-optimal-account-balancing) |
 | [0494-target-sum](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -695,6 +697,7 @@ My LeetCode Solutions.
 | [0368-largest-divisible-subset](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0435-non-overlapping-intervals) |
+| [0465-optimal-account-balancing](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0465-optimal-account-balancing) |
 | [0494-target-sum](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0647-palindromic-substrings) |
@@ -1203,6 +1206,7 @@ My LeetCode Solutions.
 | [0287-find-the-duplicate-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0371-sum-of-two-integers) |
+| [0465-optimal-account-balancing](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0465-optimal-account-balancing) |
 | [1940-maximum-xor-for-each-query](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -1356,4 +1360,8 @@ My LeetCode Solutions.
 |  |
 | ------- |
 | [1977-minimum-interval-to-include-each-query](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1977-minimum-interval-to-include-each-query) |
+## Bitmask
+|  |
+| ------- |
+| [0465-optimal-account-balancing](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0465-optimal-account-balancing) |
 <!---LeetCode Topics End-->
