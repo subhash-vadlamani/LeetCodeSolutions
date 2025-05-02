@@ -412,6 +412,7 @@ My LeetCode Solutions.
 | [0567-permutation-in-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0868-push-dominoes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -567,6 +568,7 @@ My LeetCode Solutions.
 | [0737-sentence-similarity-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0737-sentence-similarity-ii) |
 | [0768-partition-labels](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0812-rotate-string) |
+| [0868-push-dominoes](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0868-push-dominoes) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1023-time-based-key-value-store](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1023-time-based-key-value-store) |
 | [1060-longest-repeating-substring](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1060-longest-repeating-substring) |
@@ -709,6 +711,7 @@ My LeetCode Solutions.
 | [0678-valid-parenthesis-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0868-push-dominoes](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0868-push-dominoes) |
 | [0954-maximum-sum-circular-subarray](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1060-longest-repeating-substring](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1060-longest-repeating-substring) |
 | [1236-n-th-tribonacci-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1236-n-th-tribonacci-number) |
