@@ -1,5 +1,9 @@
 class Solution:
     def pushDominoes(self, dominoes: str) -> str:
+        """
+            Any Dominoe that starts of as 'L' or 'R'
+            is always going to remain the same
+        """
         dom = list(dominoes)
         q = deque()
 
