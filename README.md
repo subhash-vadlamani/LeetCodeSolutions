@@ -208,6 +208,7 @@ My LeetCode Solutions.
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1207-delete-nodes-and-return-forest](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1333-sort-the-jumbled-numbers) |
@@ -356,6 +357,7 @@ My LeetCode Solutions.
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1207-delete-nodes-and-return-forest](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -993,6 +995,7 @@ My LeetCode Solutions.
 | [0347-top-k-frequent-elements](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0621-task-scheduler) |
 | [0948-sort-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0948-sort-an-array) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1396-count-servers-that-communicate](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2139-detect-squares](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2139-detect-squares) |
