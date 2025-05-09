@@ -310,6 +310,7 @@ My LeetCode Solutions.
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Hash Table
 |  |
 | ------- |
@@ -1208,6 +1209,7 @@ My LeetCode Solutions.
 | [2232-adding-spaces-to-a-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Union Find
 |  |
 | ------- |
@@ -1278,6 +1280,7 @@ My LeetCode Solutions.
 | [2915-count-of-interesting-subarrays](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3247-number-of-same-end-substrings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3247-number-of-same-end-substrings) |
 | [3427-special-array-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3427-special-array-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Stack
 |  |
 | ------- |
