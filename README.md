@@ -395,6 +395,7 @@ My LeetCode Solutions.
 | [3548-find-the-count-of-good-integers](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Two Pointers
 |  |
@@ -624,6 +625,7 @@ My LeetCode Solutions.
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3451-string-compression-iii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3451-string-compression-iii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Backtracking
 |  |
@@ -746,6 +748,7 @@ My LeetCode Solutions.
 | [3243-count-the-number-of-powerful-integers](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Greedy
 |  |
@@ -1027,6 +1030,7 @@ My LeetCode Solutions.
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1184,6 +1188,7 @@ My LeetCode Solutions.
 | [3243-count-the-number-of-powerful-integers](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Recursion
 |  |
