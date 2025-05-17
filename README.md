@@ -124,6 +124,7 @@ My LeetCode Solutions.
 | [0066-plus-one](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -409,6 +410,7 @@ My LeetCode Solutions.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
@@ -490,6 +492,7 @@ My LeetCode Solutions.
 | [0016-3sum-closest](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0169-majority-element) |
