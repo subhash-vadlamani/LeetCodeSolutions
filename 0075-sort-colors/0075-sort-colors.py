@@ -3,26 +3,25 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        red_count = 0
-        white_count = 0
-        blue_count = 0
-
-        for i in range(0, len(nums)):
-            if nums[i] == 0:
-                red_count += 1
-            elif nums[i] == 1:
-                white_count += 1
-            else:
-                blue_count += 1
-        
+        l , r = 0, len(nums) - 1
         i = 0
-        for j in range(i, i + red_count):
-            nums[j] = 0
-        i += red_count
-        for j in range(i, i+ white_count):
-            nums[j] = 1
-        
-        i += white_count
-        for j in range(i, i + blue_count):
-            nums[j] = 2
+
+        def swap(i, j):
+            temp = nums[i]
+            nums[i] = nums[j]
+            nums[j] = temp
+
+        while i <= r:
+            if nums[i] == 0:
+                swap(l, i)
+                l += 1
             
+            if nums[i] == 2:
+                swap(i, r)
+                r -= 1
+                i -= 1
+            
+            i += 1
+        
+        
+        
