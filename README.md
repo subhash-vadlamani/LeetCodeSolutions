@@ -302,6 +302,7 @@ My LeetCode Solutions.
 | [3235-minimum-cost-to-convert-string-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3247-number-of-same-end-substrings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3247-number-of-same-end-substrings) |
 | [3291-find-if-array-can-be-sorted](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3321-type-of-triangle](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3321-type-of-triangle) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3427-special-array-ii) |
 | [3430-count-days-without-meetings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3430-count-days-without-meetings) |
@@ -542,6 +543,7 @@ My LeetCode Solutions.
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3321-type-of-triangle](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3430-count-days-without-meetings) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -1197,6 +1199,7 @@ My LeetCode Solutions.
 | [2998-count-symmetric-integers](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3321-type-of-triangle](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
