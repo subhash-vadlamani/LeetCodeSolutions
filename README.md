@@ -305,6 +305,7 @@ My LeetCode Solutions.
 | [3235-minimum-cost-to-convert-string-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3247-number-of-same-end-substrings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3247-number-of-same-end-substrings) |
 | [3291-find-if-array-can-be-sorted](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3321-type-of-triangle) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3427-special-array-ii) |
@@ -550,6 +551,7 @@ My LeetCode Solutions.
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3430-count-days-without-meetings) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3494-minimum-cost-for-cutting-cake-i) |
@@ -769,6 +771,7 @@ My LeetCode Solutions.
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -811,6 +814,7 @@ My LeetCode Solutions.
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3647-zero-array-transformation-iii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3647-zero-array-transformation-iii) |
 ## Divide and Conquer
@@ -856,6 +860,7 @@ My LeetCode Solutions.
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1295,6 +1300,7 @@ My LeetCode Solutions.
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3291-find-if-array-can-be-sorted](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3394-minimum-array-end) |
 ## Brainteaser
