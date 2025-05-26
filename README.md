@@ -384,6 +384,7 @@ My LeetCode Solutions.
 | [1694-make-sum-divisible-by-p](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2107-find-unique-binary-string) |
@@ -761,6 +762,7 @@ My LeetCode Solutions.
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1511-count-number-of-teams) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2164-two-best-non-overlapping-events) |
@@ -977,6 +979,7 @@ My LeetCode Solutions.
 | [0820-find-eventual-safe-states](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0820-find-eventual-safe-states) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1706-min-cost-to-connect-all-points](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1706-min-cost-to-connect-all-points) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2201-valid-arrangement-of-pairs](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2201-valid-arrangement-of-pairs) |
@@ -996,6 +999,7 @@ My LeetCode Solutions.
 | [0210-course-schedule-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0210-course-schedule-ii) |
 | [0269-alien-dictionary](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0269-alien-dictionary) |
 | [0820-find-eventual-safe-states](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0820-find-eventual-safe-states) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2472-build-a-matrix-with-conditions](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2472-build-a-matrix-with-conditions) |
@@ -1055,6 +1059,7 @@ My LeetCode Solutions.
 | [1227-number-of-equivalent-domino-pairs](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1396-count-servers-that-communicate](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2139-detect-squares](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2139-detect-squares) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -1358,6 +1363,7 @@ My LeetCode Solutions.
 | [0070-climbing-stairs](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0139-word-break) |
 | [1236-n-th-tribonacci-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1236-n-th-tribonacci-number) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Monotonic Stack
 |  |
 | ------- |
