@@ -863,6 +863,7 @@ My LeetCode Solutions.
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -941,6 +942,7 @@ My LeetCode Solutions.
 | [2201-valid-arrangement-of-pairs](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Linked List
 |  |
 | ------- |
@@ -1128,6 +1130,7 @@ My LeetCode Solutions.
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
