@@ -1,33 +1,47 @@
+from collections import deque
+
 class Solution:
-    def maxTargetNodes(
-        self, edges1: List[List[int]], edges2: List[List[int]], k: int
-    ) -> List[int]:
-        def dfs(
-            node: int, parent: int, children: List[List[int]], k: int
-        ) -> int:
-            if k < 0:
-                return 0
-            res = 1
-            for child in children[node]:
-                if child == parent:
-                    continue
-                res += dfs(child, node, children, k - 1)
-            return res
+    def BFS(self, start, adj, k):
+        q = deque()
+        q.append((start, -1))
+        count = 0
 
-        def build(edges: List[List[int]], k: int) -> List[int]:
-            n = len(edges) + 1
-            children = [[] for _ in range(n)]
-            for u, v in edges:
-                children[u].append(v)
-                children[v].append(u)
-            res = [0] * n
-            for i in range(n):
-                res[i] = dfs(i, -1, children, k)
-            return res
+        while q and k >= 0:
+            size = len(q)
+            count += size
+            for _ in range(size):
+                u, parent = q.popleft()
+                for v in adj[u]:
+                    if v != parent:
+                        q.append((v, u))
+            k -= 1
+        return count
 
-        n = len(edges1) + 1
-        count1 = build(edges1, k)
-        count2 = build(edges2, k - 1)
-        maxCount2 = max(count2)
-        res = [count1[i] + maxCount2 for i in range(n)]
+    def maxTargetNodes(self, edges1, edges2, k):
+        m = len(edges1) + 1
+        n = len(edges2) + 1
+
+        # Build adjacency lists for tree 1
+        adj1 = [[] for _ in range(m)]
+        for u, v in edges1:
+            adj1[u].append(v)
+            adj1[v].append(u)
+
+        # Build adjacency lists for tree 2
+        adj2 = [[] for _ in range(n)]
+        for u, v in edges2:
+            adj2[u].append(v)
+            adj2[v].append(u)
+
+        # Preprocess: Find the best node in Tree-2
+        best = 0
+        for i in range(n):
+            connections = self.BFS(i, adj2, k - 1)
+            best = max(best, connections)
+
+        # Build answer
+        res = []
+        for i in range(m):
+            connections = self.BFS(i, adj1, k)
+            res.append(connections + best)
         return res
