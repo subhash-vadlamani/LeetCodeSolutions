@@ -942,6 +942,7 @@ My LeetCode Solutions.
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2201-valid-arrangement-of-pairs](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -989,6 +990,7 @@ My LeetCode Solutions.
 | [2201-valid-arrangement-of-pairs](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2472-build-a-matrix-with-conditions](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3189-find-champion-ii) |
