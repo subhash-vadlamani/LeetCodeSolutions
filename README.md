@@ -196,6 +196,7 @@ My LeetCode Solutions.
 | [0907-koko-eating-bananas](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0921-spiral-matrix-iii) |
 | [0940-fruit-into-baskets](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0940-fruit-into-baskets) |
+| [0945-snakes-and-ladders](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0999-regions-cut-by-slashes](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0999-regions-cut-by-slashes) |
@@ -696,6 +697,7 @@ My LeetCode Solutions.
 | [0794-swim-in-rising-water](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0794-swim-in-rising-water) |
 | [0870-magic-squares-in-grid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0921-spiral-matrix-iii) |
+| [0945-snakes-and-ladders](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0945-snakes-and-ladders) |
 | [0999-regions-cut-by-slashes](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -1118,6 +1120,7 @@ My LeetCode Solutions.
 | [0794-swim-in-rising-water](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0820-find-eventual-safe-states) |
+| [0945-snakes-and-ladders](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0945-snakes-and-ladders) |
 | [0999-regions-cut-by-slashes](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0999-regions-cut-by-slashes) |
 | [1035-cousins-in-binary-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1036-rotting-oranges) |
