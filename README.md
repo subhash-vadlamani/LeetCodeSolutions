@@ -265,6 +265,7 @@ My LeetCode Solutions.
 | [2249-count-the-hidden-sequences](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2249-count-the-hidden-sequences) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2262-solving-questions-with-brainpower](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2262-solving-questions-with-brainpower) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2358-number-of-ways-to-split-array) |
