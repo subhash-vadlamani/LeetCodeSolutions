@@ -410,6 +410,7 @@ My LeetCode Solutions.
 | [3247-number-of-same-end-substrings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3247-number-of-same-end-substrings) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3548-find-the-count-of-good-integers](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -653,6 +654,7 @@ My LeetCode Solutions.
 | [3247-number-of-same-end-substrings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3247-number-of-same-end-substrings) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3451-string-compression-iii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3451-string-compression-iii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -829,6 +831,7 @@ My LeetCode Solutions.
 | [3195-separate-black-and-white-balls](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3647-zero-array-transformation-iii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3647-zero-array-transformation-iii) |
 ## Divide and Conquer
@@ -1056,6 +1059,7 @@ My LeetCode Solutions.
 | [2616-maximal-score-after-applying-k-operations](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2681-put-marbles-in-bags](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2681-put-marbles-in-bags) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3647-zero-array-transformation-iii) |
@@ -1383,6 +1387,7 @@ My LeetCode Solutions.
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3001-apply-operations-to-maximize-score](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Memoization
 |  |
 | ------- |
