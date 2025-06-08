@@ -934,6 +934,7 @@ My LeetCode Solutions.
 | [0314-binary-tree-vertical-order-traversal](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0332-reconstruct-itinerary](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0332-reconstruct-itinerary) |
+| [0386-lexicographical-numbers](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0547-number-of-provinces) |
@@ -1431,6 +1432,7 @@ My LeetCode Solutions.
 | [0208-implement-trie-prefix-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0212-word-search-ii) |
+| [0386-lexicographical-numbers](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0386-lexicographical-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Number Theory
 |  |
