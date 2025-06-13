@@ -292,6 +292,7 @@ My LeetCode Solutions.
 | [2699-count-the-number-of-fair-pairs](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2716-prime-subtraction-operation) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2727-number-of-senior-citizens) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -502,6 +503,7 @@ My LeetCode Solutions.
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2716-prime-subtraction-operation) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3427-special-array-ii) |
 ## Sorting
@@ -829,6 +831,7 @@ My LeetCode Solutions.
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2681-put-marbles-in-bags) |
 | [2716-prime-subtraction-operation](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2716-prime-subtraction-operation) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
