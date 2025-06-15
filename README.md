@@ -818,6 +818,7 @@ My LeetCode Solutions.
 | [1126-minimum-cost-to-connect-sticks](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1304-longest-happy-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1304-longest-happy-string) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -1254,6 +1255,7 @@ My LeetCode Solutions.
 | [1236-n-th-tribonacci-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1236-n-th-tribonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1500-count-largest-group) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2050-count-good-numbers) |
