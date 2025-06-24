@@ -163,6 +163,7 @@ My LeetCode Solutions.
 | [0300-longest-increasing-subsequence](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0362-design-hit-counter](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0362-design-hit-counter) |
@@ -721,6 +722,7 @@ My LeetCode Solutions.
 | [0212-word-search-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0221-maximal-square) |
 | [0286-walls-and-gates](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0286-walls-and-gates) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0695-max-area-of-island) |
 | [0772-construct-quad-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0772-construct-quad-tree) |
@@ -776,6 +778,7 @@ My LeetCode Solutions.
 | [0300-longest-increasing-subsequence](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0416-partition-equal-subset-sum) |
@@ -960,6 +963,7 @@ My LeetCode Solutions.
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0332-reconstruct-itinerary) |
 | [0386-lexicographical-numbers](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -1019,6 +1023,7 @@ My LeetCode Solutions.
 | [0269-alien-dictionary](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0269-alien-dictionary) |
 | [0277-find-the-celebrity](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0277-find-the-celebrity) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0684-redundant-connection) |
@@ -1048,6 +1053,7 @@ My LeetCode Solutions.
 | [0207-course-schedule](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0210-course-schedule-ii) |
 | [0269-alien-dictionary](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0269-alien-dictionary) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0820-find-eventual-safe-states) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -1157,6 +1163,7 @@ My LeetCode Solutions.
 | [0314-binary-tree-vertical-order-traversal](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0322-coin-change](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0322-coin-change) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0684-redundant-connection) |
@@ -1436,6 +1443,7 @@ My LeetCode Solutions.
 | ------- |
 | [0070-climbing-stairs](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0139-word-break) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1236-n-th-tribonacci-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1236-n-th-tribonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Monotonic Stack
