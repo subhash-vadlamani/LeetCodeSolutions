@@ -271,6 +271,7 @@ My LeetCode Solutions.
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2262-solving-questions-with-brainpower](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2358-number-of-ways-to-split-array) |
@@ -463,6 +464,7 @@ My LeetCode Solutions.
 | [1972-rotating-the-box](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
