@@ -258,6 +258,7 @@ My LeetCode Solutions.
 | [2139-detect-squares](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2139-detect-squares) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2145-grid-game) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2164-two-best-non-overlapping-events) |
@@ -503,6 +504,7 @@ My LeetCode Solutions.
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1977-minimum-interval-to-include-each-query) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
