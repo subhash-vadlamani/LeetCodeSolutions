@@ -1,46 +1,34 @@
 import heapq
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+        # కె మోస్ట్ ఫ్రీక్వెంట్ ఎలిమెంట్స్ రిటర్న్ చేయాలి 
+        # calculate the freq dict and insert them into min heap of size k
+        # Time complexity: O(N * log(k))
 
-        num_count_dict = dict()
+        freq_dict = dict()
         for num in nums:
-            if num not in num_count_dict:
-                num_count_dict[num] = 1
+            freq_dict[num] = 1 + freq_dict.get(num, 0)
+        
+        min_heap = [] # Each element will be of the format (freq, element)
+        count = 0
+
+        for key in freq_dict:
+            freq_value = freq_dict[key]
+            heap_element = (freq_value, key)
+
+            if count < k:
+                heapq.heappush(min_heap, heap_element)
+                count += 1
             else:
-                num_count_dict[num] += 1
+                top_element_freq = min_heap[0][0]
+                if freq_value > top_element_freq:
+                    heapq.heappop(min_heap)
+                    heapq.heappush(min_heap, heap_element)
         
-        num_count_list = [[] for _ in range(len(nums) + 1)] 
+        answer = []
+        while min_heap:
+            answer.append(heapq.heappop(min_heap)[1])
+        return answer
 
-        for _, (key, val) in enumerate(num_count_dict.items()):
-            num_count_list[val].append(key)
-        
-        answer_list = []
-        current_count = 0
-        # print(num_count_list)
 
-        for i in range(len(num_count_list) - 1, 0, -1):
-            if num_count_list[i]:
-                for j in range(len(num_count_list[i])):
-                    answer_list.append(num_count_list[i][j])
-                    current_count += 1
-                    if current_count == k:
-                        break
-            if current_count == k:
-                break
-        return answer_list
 
-        
-        # heap = []
-        # for index, (key, val) in enumerate(num_count_dict.items()):
-        #     if len(heap) < k:
-        #         heapq.heappush(heap, [val, key])
-        #     else:
-        #         if val > heap[0][0]:
-        #             heapq.heappop(heap)
-        #             heapq.heappush(heap, [val, key])
-        # # print(heap)
-        # answer = []
-        # for i in range(len(heap)):
-        #     answer.append(heap[i][1])
-        # return answer
-        
