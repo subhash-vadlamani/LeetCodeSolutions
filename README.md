@@ -149,6 +149,7 @@ My LeetCode Solutions.
 | [0212-word-search-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0238-product-of-array-except-self) |
@@ -363,6 +364,7 @@ My LeetCode Solutions.
 | [0169-majority-element](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
@@ -533,6 +535,7 @@ My LeetCode Solutions.
 | [0148-sort-list](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0252-meeting-rooms](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0268-missing-number) |
