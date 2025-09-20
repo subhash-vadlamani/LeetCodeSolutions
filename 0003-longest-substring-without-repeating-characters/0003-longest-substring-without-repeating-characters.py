@@ -1,29 +1,38 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-
         """
-            sliding window. 
-            maintain 2 indices i, j
-            maintain longest_length variable to store the length of the longest substring without duplicat
-            characters
+            length of the longest substring without duplicate characters
 
-            maintain seen set
+            sliding window technique
         """
 
-        i , j = 0, 0
-        longest_length = 0
-        seen = set()
-        s_len = len(s)
+        i = 0
+        j = 0
+        char_set = set()
+        """
+            'j' is for adding characters
+            'i' is for removing characters
+        """
 
-        while j < s_len:
-            if s[j] not in seen:
-                seen.add(s[j])
-                current_length = j - i + 1
-                longest_length = max(longest_length, current_length)
+        max_len = 0
+        curr_len = 0
+        while j < len(s):
+            if s[j] not in char_set:
+                char_set.add(s[j])
+                curr_len += 1
                 j += 1
             else:
-                seen.remove(s[i])
+                if curr_len > max_len:
+                    max_len = curr_len
+                char_set.remove(s[i])
+                curr_len -= 1
                 i += 1
-        return longest_length
+        
+        if curr_len > max_len:
+            max_len = curr_len
+        return max_len
+
+
+
 
         
