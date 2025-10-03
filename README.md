@@ -296,6 +296,7 @@ My LeetCode Solutions.
 | [2586-longest-square-streak-in-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2685-first-completely-painted-row-or-column) |
@@ -419,6 +420,7 @@ My LeetCode Solutions.
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -1248,6 +1250,7 @@ My LeetCode Solutions.
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
