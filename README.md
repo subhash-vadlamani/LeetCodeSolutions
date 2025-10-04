@@ -244,6 +244,7 @@ My LeetCode Solutions.
 | [1741-sort-array-by-increasing-frequency](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1755-defuse-the-bomb](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1813-maximum-erasure-value](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1813-maximum-erasure-value) |
 | [1876-map-of-highest-peak](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -407,6 +408,7 @@ My LeetCode Solutions.
 | [1694-make-sum-divisible-by-p](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1813-maximum-erasure-value](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1813-maximum-erasure-value) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -1252,6 +1254,7 @@ My LeetCode Solutions.
 | [1046-max-consecutive-ones-iii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1755-defuse-the-bomb](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1755-defuse-the-bomb) |
+| [1813-maximum-erasure-value](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1813-maximum-erasure-value) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
