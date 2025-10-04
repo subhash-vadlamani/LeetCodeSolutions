@@ -208,6 +208,7 @@ My LeetCode Solutions.
 | [1002-maximum-width-ramp](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1036-rotting-oranges) |
+| [1046-max-consecutive-ones-iii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1074-high-five](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1074-high-five) |
 | [1098-largest-unique-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1098-largest-unique-number) |
@@ -509,6 +510,7 @@ My LeetCode Solutions.
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1023-time-based-key-value-store) |
+| [1046-max-consecutive-ones-iii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1060-longest-repeating-substring](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1060-longest-repeating-substring) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -1247,6 +1249,7 @@ My LeetCode Solutions.
 | [0643-maximum-average-subarray-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0940-fruit-into-baskets) |
+| [1046-max-consecutive-ones-iii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1755-defuse-the-bomb](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1755-defuse-the-bomb) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -1433,6 +1436,7 @@ My LeetCode Solutions.
 | [0253-meeting-rooms-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0253-meeting-rooms-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1184-car-pooling) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1694-make-sum-divisible-by-p) |
