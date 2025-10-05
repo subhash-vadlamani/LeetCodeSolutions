@@ -614,6 +614,7 @@ My LeetCode Solutions.
 | [0008-string-to-integer-atoi](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0030-substring-with-concatenation-of-all-words) |
@@ -1464,6 +1465,7 @@ My LeetCode Solutions.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0143-reorder-list) |
