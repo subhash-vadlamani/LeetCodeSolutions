@@ -221,6 +221,7 @@ My LeetCode Solutions.
 | [1227-number-of-equivalent-domino-pairs](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1293-three-consecutive-odds) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1333-sort-the-jumbled-numbers](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1396-count-servers-that-communicate) |
@@ -1477,6 +1478,7 @@ My LeetCode Solutions.
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1197-parsing-a-boolean-expression) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1909-buildings-with-an-ocean-view](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1909-buildings-with-an-ocean-view) |
@@ -1503,6 +1505,7 @@ My LeetCode Solutions.
 | [0739-daily-temperatures](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0883-car-fleet) |
 | [1002-maximum-width-ramp](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1002-maximum-width-ramp) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1909-buildings-with-an-ocean-view](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1909-buildings-with-an-ocean-view) |
 | [3001-apply-operations-to-maximize-score](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/3001-apply-operations-to-maximize-score) |
