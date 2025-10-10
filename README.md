@@ -199,6 +199,7 @@ My LeetCode Solutions.
 | [0883-car-fleet](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0883-car-fleet) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0907-koko-eating-bananas) |
+| [0912-random-pick-with-weight](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0912-random-pick-with-weight) |
 | [0921-spiral-matrix-iii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0921-spiral-matrix-iii) |
 | [0940-fruit-into-baskets](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0945-snakes-and-ladders) |
@@ -513,6 +514,7 @@ My LeetCode Solutions.
 | [0794-swim-in-rising-water](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0907-koko-eating-bananas) |
+| [0912-random-pick-with-weight](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0912-random-pick-with-weight) |
 | [1023-time-based-key-value-store](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1060-longest-repeating-substring](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1060-longest-repeating-substring) |
@@ -1324,6 +1326,7 @@ My LeetCode Solutions.
 | [0670-maximum-swap](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0870-magic-squares-in-grid) |
+| [0912-random-pick-with-weight](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0912-random-pick-with-weight) |
 | [1014-k-closest-points-to-origin](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1119-robot-bounded-in-circle](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1119-robot-bounded-in-circle) |
 | [1236-n-th-tribonacci-number](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1236-n-th-tribonacci-number) |
@@ -1442,6 +1445,7 @@ My LeetCode Solutions.
 | [0253-meeting-rooms-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0253-meeting-rooms-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0912-random-pick-with-weight](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1184-car-pooling) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -1605,4 +1609,8 @@ My LeetCode Solutions.
 |  |
 | ------- |
 | [0465-optimal-account-balancing](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0465-optimal-account-balancing) |
+## Randomized
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0912-random-pick-with-weight) |
 <!---LeetCode Topics End-->
