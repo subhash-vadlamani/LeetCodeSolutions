@@ -185,6 +185,7 @@ My LeetCode Solutions.
 | [0621-task-scheduler](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0695-max-area-of-island) |
 | [0734-sentence-similarity](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0734-sentence-similarity) |
 | [0737-sentence-similarity-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0737-sentence-similarity-ii) |
@@ -474,6 +475,7 @@ My LeetCode Solutions.
 | [0443-string-compression](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0647-palindromic-substrings) |
+| [0658-find-k-closest-elements](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
 | [0768-partition-labels](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0868-push-dominoes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -512,6 +514,7 @@ My LeetCode Solutions.
 | [0350-intersection-of-two-arrays-ii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0362-design-hit-counter](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0362-design-hit-counter) |
 | [0374-guess-number-higher-or-lower](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0658-find-k-closest-elements](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -567,6 +570,7 @@ My LeetCode Solutions.
 | [0594-longest-harmonious-subsequence](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0658-find-k-closest-elements](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
 | [0876-hand-of-straights](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0948-sort-an-array) |
@@ -1115,6 +1119,7 @@ My LeetCode Solutions.
 | [0502-ipo](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0658-find-k-closest-elements](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0794-swim-in-rising-water) |
@@ -1256,6 +1261,7 @@ My LeetCode Solutions.
 | [0594-longest-harmonious-subsequence](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/subhash-vadlamani/LeetCodeSolutions/tree/master/1046-max-consecutive-ones-iii) |
