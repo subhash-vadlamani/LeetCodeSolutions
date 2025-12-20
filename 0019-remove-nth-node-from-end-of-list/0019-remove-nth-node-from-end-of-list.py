@@ -5,28 +5,39 @@
 #         self.next = next
 class Solution:
     def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
+
+        #calculate the length of the list
+
         linked_list_length = 0
-        temp_node = head
-        
-        while temp_node:
+        temp = head
+        while temp:
+            temp = temp.next
             linked_list_length += 1
-            temp_node = temp_node.next
-        front_node_number = (linked_list_length + 1) - n
         
-        if front_node_number == 1:
-            head = head.next
-            return head
-        
-        current_node_number = 2
-        
-        temp_node = head
-        
-        while current_node_number < front_node_number:
-            temp_node = temp_node.next
+        # Now, we calculate the number of the node from front
+
+        number_from_front = linked_list_length - n + 1
+
+        """
+            stop the loop when you reach the node whose number
+            is one less than the node you want to remove
+        """
+
+        current_node = head
+        current_node_number = 1
+
+        if number_from_front == 1:
+            return head.next
+        while True:
+            if current_node_number == number_from_front - 1:
+                break
+            current_node = current_node.next
             current_node_number += 1
-        # if temp_node.next:
-        temp_node.next = temp_node.next.next
-        # else:
-        #     head = None
+        
+        current_node.next = current_node.next.next
+
         return head
+        
+            
+
         
