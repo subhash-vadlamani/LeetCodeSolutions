@@ -1,13 +1,20 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        s_char_dict = dict()
-        t_char_dict = dict()
+        
+        def generate_char_dict(my_string:str) -> dict:
+            my_string_dict = {}
+            for my_char in my_string:
+                if my_char not in my_string_dict:
+                    my_string_dict[my_char] = 1
+                else:
+                    my_string_dict[my_char] += 1
+            return my_string_dict
+        
+        my_s_dict = generate_char_dict(s)
+        my_t_dict = generate_char_dict(t)
 
-        for ch in s:
-            s_char_dict[ch] = 1 + s_char_dict.get(ch, 0)
-        
-        for ch in t:
-            t_char_dict[ch] = 1 + t_char_dict.get(ch, 0)
-        
-        return (s_char_dict == t_char_dict)
+        # print(f"my_s_dict is ${my_s_dict}")
+        # print(f"my_t_dict is ${my_t_dict}")
+
+        return (my_s_dict == my_t_dict)
         
