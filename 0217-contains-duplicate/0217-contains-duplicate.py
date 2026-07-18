@@ -1,10 +1,9 @@
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        count_dict = {}
-        
-        for i in range(0, len(nums)):
-            if nums[i] in count_dict:
+        my_set = set()
+        for num in nums:
+            if num in my_set:
                 return True
-            count_dict[nums[i]] = 1
+            my_set.add(num)
         return False
         
