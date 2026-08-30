@@ -1,37 +1,16 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        element_hash = {}
+        """
+            O(n ** 2) -> pretty easy, double loop
 
-        for i in range(0, len(nums)):
-            current_element = nums[i]
+            O(n) -> use dict to look up previously seen elements
+        """
+        previous_number_dict = dict()
 
-            if current_element not in element_hash:
-                element_hash[current_element] = [i]
-            else:
-                element_hash[current_element].append(i)
+        for i in range(len(nums)):
+            required_number = target - nums[i]
+            if required_number in previous_number_dict:
+                return [previous_number_dict[required_number], i]
+            previous_number_dict[nums[i]] = i
         
-        for i in range(0, len(nums)):
-            required_element = target - nums[i]
-
-            if required_element != nums[i]:
-                if required_element in element_hash:
-                    required_element_index = element_hash[required_element][0]
-                    current_element_index = element_hash[nums[i]][0]
-                    answer_list = []
-                    answer_list.append(required_element_index)
-                    answer_list.append(current_element_index)
-                    return answer_list
-            else:
-                if len(element_hash[required_element]) > 1:
-                    required_element_index = element_hash[required_element][0]
-                    current_element_index = element_hash[required_element][1]
-            
-                    answer_list = []
-                    answer_list.append(required_element_index)
-                    answer_list.append(current_element_index)
-                    return answer_list
-
-
-
-
         
