@@ -1,22 +1,22 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        # start_list = ['0']*26
-        # start_string = "".join(start_list)
-        str_dict = dict()
+        """
+            task is to group anagrams
+            anagrams -> words that have same letters
+            dictionary of list?
+        """
+        
+        def getWordDictKey(my_str):
+            """
+                Returns the key of the dict
+            """
+            original_key = "0"*26
+            for i in range(len(my_str)):
+                current_char = my_str[i]
+                original_key[]
 
-        for current_str in strs:
-            current_key_list = [0] * 26
-            for char in current_str:
-                current_key_list[ord(char) - ord('a')] += 1
-            
-            current_key = "".join(str(current_key_list))
 
-            if current_key not in str_dict:
-                str_dict[current_key] = [current_str]
-            else:
-                str_dict[current_key].append(current_str)
 
-        return list(str_dict.values())
 
 
         
